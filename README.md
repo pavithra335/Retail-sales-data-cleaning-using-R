@@ -1,111 +1,61 @@
-# Retail Sales Data Cleaning & Exploratory Data Analysis in R
+Retail Sales Analysis — Data Cleaning, EDA & Predictive Modeling in R
 
-A complete data cleaning and preliminary exploratory data analysis (EDA) project performed in **R** on a retail sales dataset. This project demonstrates handling missing values, treating outliers, feature engineering, and generating business insights through statistical analysis and visualizations.
+End-to-end analysis of a 1,000-record retail sales dataset (Jan 2023 – Dec 2024), completed over four weekly milestones: data cleaning, exploratory analysis, statistical hypothesis testing, and predictive modeling, culminating in a comprehensive final report.
 
-## Project Overview
+Project Overview
 
-The project uses a retail sales dataset containing **1,000 order-level records** and **14 variables**. The objective was to transform raw, imperfect data into a clean, analysis-ready dataset suitable for future statistical modeling or machine learning.
+This project takes a raw retail orders dataset through a full analytics pipeline in R:
 
-## Dataset Information
-
-* **Records:** 1,000
-* **Features:** 14
-* **Domain:** Retail Sales
-* **Language:** R
-
-### Numerical Variables
-
-* Sales
-* Quantity
-* Discount
-* Profit
-
-### Categorical Variables
-
-* Region
-* Segment
-* Category
-* Ship Mode
-* State
-* Sub-Category
-
-## Data Cleaning Tasks Performed
-
-### 1. Data Inspection
-
-* Examined data structure using `str()`
-* Generated summary statistics with `summary()`
-* Identified missing values and variable types
-
-### 2. Missing Value Treatment
-
-* Median imputation for numerical variables
-* Mode imputation for categorical variables
-* Removed **100% of missing values** while preserving all records
-
-### 3. Outlier Detection & Treatment
-
-* Detected outliers using the **Interquartile Range (IQR)** method
-* Applied **Winsorization (capping)** instead of deleting observations
-* Preserved the complete dataset of 1,000 rows
-
-### 4. Feature Engineering
-
-* Min–Max normalization of numerical features
-* Label encoding for Category and Segment
-* One-hot encoding for Region and Ship Mode
-
-## Exploratory Data Analysis
-
-The analysis includes:
-
-* Distribution of Sales
-* Profit by Product Category
-* Total Sales by Region
-* Correlation Matrix
-* Sales vs Profit Scatter Plot
-
-## Key Insights
-
-| Finding                       |            Result |
-| ----------------------------- | ----------------: |
-| Sales ↔ Profit correlation    |         **0.747** |
-| Discount ↔ Profit correlation |        **-0.354** |
-| Missing values after cleaning |             **0** |
-| Records retained              | **1,000 / 1,000** |
-
-**Business observations:**
-
-* Higher sales generally lead to higher profit.
-* Larger discounts tend to reduce profit margins.
-* Quantity has very little linear relationship with sales or profit.
-* Product categories differ noticeably in profitability.
-
-## Technologies Used
-
-* R
-* tidyverse
-* ggplot2
-* corrplot
-* fastDummies
-
-## Repository Structure
-
-```text
-├── report.R                         # Complete R script
-├── retail_sales_raw.csv             # Original dataset
-├── retail_sales_cleaned.csv         # Cleaned dataset
-├── Week1_Data_Cleaning_R_Report.docx # Project report
+Week 1 — Data Cleaning & Preliminary Analysis: missing value treatment, IQR-based outlier capping, structural checks
+Week 2 — Data Visualization & Insight Communication: trend, regional, categorical, and correlation analysis with visualizations
+Week 3 — Statistical Analysis & Predictive Modeling: hypothesis testing (normality, correlation, t-test, ANOVA, chi-square) and a multiple linear regression model with cross-validation
+Week 4 — Comprehensive Final Report: integration of all prior work into a single narrative report with conclusions and recommendations
+Repository Structure
+├── Week1_Data_Cleaning/
+│   ├── retail_sales_raw.csv
+│   ├── retail_sales_cleaned.csv
+│   ├── report.R
+│   └── Retail_sales_data_Cleaning_Report.docx
+│
+├── Week2_Data_Visualization/
+│   ├── retail_sales_week2.csv
+│   ├── week2_report.R
+│   └── Week2_Data_Visualization_R_Report.docx
+│
+├── Week3_Statistical_Modeling/
+│   ├── week3_report.R
+│   └── Week3_Statistical_Modeling_R_Report.docx
+│
+├── Week4_Final_Report/
+│   └── Week4_Final_Comprehensive_Report.docx
+│
 └── README.md
-```
+Dataset
 
-## Learning Outcomes
+Retail order-level sales data with fields including Order_Date, Ship_Date, Ship_Mode, Region, Category, Segment, Sales, Quantity, Discount, and Profit. The raw dataset is cleaned in Week 1 and carried forward through subsequent weeks as Sales_capped / Profit_capped (outlier-capped versions used for modeling).
 
-Through this task, I practiced:
+Tools & Packages
+Language: R
+Data wrangling & visualization: tidyverse, ggplot2, corrplot
+Data prep: fastDummies
+Statistical modeling: car (VIF), caret (cross-validation)
+Weekly Highlights
+Week	Focus	Key Outputs
+1	Data cleaning	Median/mode imputation for missing values; IQR-based outlier capping on Sales & Profit
+2	Data visualization	Monthly sales/profit trend line chart, sales-by-region bar chart, category/segment profit comparison, sales distribution histogram, anomaly-highlighted scatter plot, shipping-mode boxplot, correlation heatmap
+3	Statistical modeling	Shapiro-Wilk, Pearson correlation, Welch t-test, one-way ANOVA + Tukey HSD, chi-square test; multiple linear regression (R² ≈ 0.70, 5-fold CV) with residual diagnostics
+4	Final report	End-to-end synthesis, limitations (heteroscedasticity, capping artifacts), and recommendations for future modeling (log/Box-Cox transform, regularization, non-linear models)
+How to Run
+Clone the repo and open the relevant week's folder in Posit Cloud or RStudio.
+Install required packages (run once):
+r
+   install.packages(c("tidyverse", "corrplot", "fastDummies", "car", "caret"))
+Run the .R script in that folder — each script reads its corresponding CSV from the same directory.
+Diagnostic and EDA plots are saved directly to PNG files in the working directory rather than relying on the RStudio Plots pane.
+Reports
 
-* Data preprocessing in R
-* Missing value imputation
-* Outlier handling using IQR
-* Feature normalization & encoding
-* Exploratory Data Analysis (EDA)
-* Data visualization for business insights
+Each week's .docx report documents methodology, R code, outputs, and interpretation in full, and is intended to be read alongside its corresponding script.
+
+Author
+
+Pavithra — B.Tech Computer Science Engineering, Keshav Memorial Engineering College (KMEC)
