@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_Name,Segment,Region,State,Category,Sub_Category,Sales,Quantity,Discount,Profit
+ORD-10000,2023-04-13,2023-04-14,Same Day,Customer_224,Consumer,West,New York,Office Supplies,Binders,60.97,4.0,0.0,14.23
+ORD-10001,2024-03-11,2024-03-12,Standard Class,Customer_109,Corporate,West,Texas,Office Supplies,Art,96.44,,0.4,-4.22
+ORD-10002,2023-09-28,2023-09-29,Standard Class,Customer_188,Consumer,East,Ohio,Office Supplies,Labels,41.07,12.0,0.1,6.36
+ORD-10003,2023-04-17,2023-04-20,First Class,Customer_76,Home Office,East,Georgia,Furniture,Tables,173.74,13.0,0.15,48.38
+ORD-10004,2023-03-13,2023-03-19,Standard Class,Customer_17,Corporate,West,Pennsylvania,Office Supplies,Storage,32.94,2.0,0.1,9.67
+ORD-10005,2024-12-01,2024-12-04,Standard Class,Customer_47,Corporate,West,Florida,Furniture,Tables,90.59,5.0,0.0,34.31
+ORD-10006,2023-01-21,2023-01-27,Standard Class,Customer_216,Consumer,West,Illinois,Office Supplies,Art,31.32,8.0,0.1,1.62
+ORD-10007,2024-09-06,2024-09-07,Standard Class,Customer_298,Corporate,Central,Florida,Office Supplies,Storage,64.36,7.0,0.0,19.82
+ORD-10008,2023-05-02,2023-05-07,Standard Class,Customer_68,Corporate,West,Georgia,Office Supplies,Labels,68.31,7.0,0.15,10.87
+ORD-10009,2024-04-11,2024-04-17,Second Class,Customer_168,Home Office,South,Texas,Office Supplies,Binders,43.77,6.0,0.1,8.04
+ORD-10010,2023-08-03,2023-08-07,Standard Class,Customer_144,Consumer,South,Florida,Furniture,Chairs,393.04,3.0,0.2,53.76
+ORD-10011,2023-11-27,2023-12-01,Second Class,Customer_22,Consumer,South,Illinois,Office Supplies,Paper,48.38,5.0,0.0,12.57
+ORD-10012,2024-04-03,2024-04-05,Standard Class,Customer_128,Consumer,East,Washington,Office Supplies,Art,51.72,13.0,0.0,18.99
+ORD-10013,2023-03-29,2023-04-04,Standard Class,Customer_96,Consumer,East,Michigan,Office Supplies,Art,66.15,1.0,0.1,21.25
+ORD-10014,2024-01-08,2024-01-13,,Customer_71,Corporate,East,Florida,Technology,Accessories,403.66,7.0,0.4,17.93
+ORD-10015,2023-04-10,2023-04-13,Same Day,Customer_243,Home Office,West,Washington,Furniture,Furnishings,,9.0,,11.44
+ORD-10016,2024-10-25,2024-10-26,Standard Class,Customer_218,Consumer,South,Washington,Office Supplies,Storage,149.42,1.0,0.1,62.75
+ORD-10017,2023-05-11,2023-05-13,Second Class,Customer_246,Home Office,West,New York,Office Supplies,Storage,54.76,13.0,0.1,19.23
+ORD-10018,2024-10-23,2024-10-27,Standard Class,Customer_161,Consumer,Central,Michigan,Office Supplies,Art,24.55,2.0,0.0,
+ORD-10019,2023-11-05,2023-11-08,Standard Class,Customer_200,Consumer,Central,Pennsylvania,Office Supplies,Art,68.84,,0.5,-9.54
+ORD-10020,2023-12-10,2023-12-13,Standard Class,Customer_246,Consumer,East,Illinois,Office Supplies,Binders,154.3,3.0,0.15,49.69
+ORD-10021,2024-05-06,2024-05-07,Standard Class,Customer_227,Consumer,Central,Ohio,Technology,Machines,220.59,8.0,0.0,94.99
+ORD-10022,2024-02-18,2024-02-24,Standard Class,Customer_175,Home Office,South,Georgia,Office Supplies,Storage,178.46,7.0,0.15,18.23
+ORD-10023,2024-01-21,2024-01-25,Standard Class,Customer_123,Consumer,Central,Ohio,Office Supplies,Paper,86.2,6.0,0.0,37.66
+ORD-10024,2023-07-11,2023-07-16,First Class,Customer_29,Corporate,East,Florida,Office Supplies,Storage,9.39,10.0,0.4,-0.21
+ORD-10025,2023-10-04,2023-10-07,Standard Class,Customer_207,Consumer,West,Michigan,Office Supplies,Binders,186.79,10.0,0.0,52.51
+ORD-10026,2023-06-10,2023-06-11,Second Class,Customer_270,Home Office,Central,Florida,Furniture,Tables,55.32,11.0,0.15,
+ORD-10027,2024-04-04,2024-04-09,Standard Class,Customer_232,Consumer,South,Michigan,Office Supplies,Art,56.85,4.0,0.0,18.68
+ORD-10028,2023-11-10,2023-11-16,Standard Class,Customer_90,Consumer,South,Illinois,Office Supplies,Art,,9.0,0.2,7.6
+ORD-10029,2023-01-22,2023-01-26,Second Class,Customer_45,Consumer,South,Georgia,Technology,Phones,151.96,1.0,0.2,45.13
+ORD-10030,2023-09-10,2023-09-16,Standard Class,Customer_155,Consumer,West,Georgia,Office Supplies,Paper,76.91,11.0,0.15,22.42
+ORD-10031,2024-07-14,2024-07-17,Standard Class,Customer_97,Consumer,South,Illinois,Office Supplies,Art,119.14,2.0,,20.06
+ORD-10032,2024-04-19,2024-04-24,Second Class,Customer_53,Home Office,East,Pennsylvania,Office Supplies,Labels,13.3,14.0,0.3,1.48
+ORD-10033,2023-02-28,2023-03-05,First Class,Customer_210,Corporate,East,Washington,Office Supplies,Art,136.56,4.0,0.0,56.82
+ORD-10034,2024-05-25,2024-05-30,Standard Class,Customer_9,Corporate,South,Michigan,Office Supplies,Labels,85.47,3.0,0.0,30.5
+ORD-10035,2024-11-12,2024-11-15,Standard Class,Customer_32,Corporate,Central,California,Office Supplies,Binders,130.47,1.0,0.0,39.54
+ORD-10036,2024-04-20,2024-04-23,First Class,Customer_63,Consumer,South,California,Technology,Phones,367.78,,0.5,-52.44
+ORD-10037,2024-11-30,2024-12-06,Standard Class,Customer_221,Consumer,East,Washington,Office Supplies,Art,183.93,7.0,0.1,53.49
+ORD-10038,2023-07-09,2023-07-11,Second Class,Customer_169,Home Office,East,Florida,Office Supplies,Storage,64.83,2.0,0.2,13.16
+ORD-10039,2024-11-17,2024-11-23,,Customer_250,Home Office,East,Michigan,Technology,Phones,,5.0,0.15,89.72
+ORD-10040,2024-07-16,2024-07-20,Standard Class,Customer_150,Home Office,Central,Texas,Office Supplies,Paper,60.93,6.0,0.0,8.56
+ORD-10041,2024-07-20,2024-07-21,Second Class,Customer_291,Home Office,Central,Georgia,Office Supplies,Art,11.15,11.0,0.0,2.75
+ORD-10042,2023-09-01,2023-09-06,Standard Class,Customer_65,Consumer,Central,Ohio,Furniture,Tables,,7.0,0.0,177.99
+ORD-10043,2024-05-19,2024-05-21,Standard Class,Customer_280,Consumer,East,Texas,Technology,Copiers,133.44,1.0,0.1,11.95
+ORD-10044,2023-05-11,2023-05-12,Standard Class,Customer_25,Consumer,West,Ohio,Furniture,Bookcases,122.43,7.0,0.0,54.45
+ORD-10045,2024-04-29,2024-05-01,First Class,Customer_296,Consumer,South,Georgia,Office Supplies,Storage,6.84,4.0,0.0,2.96
+ORD-10046,2024-10-08,2024-10-14,Second Class,Customer_222,Consumer,South,California,Furniture,Bookcases,50.19,8.0,0.3,4.18
+ORD-10047,2023-01-21,2023-01-24,Standard Class,Customer_33,Consumer,East,Illinois,Office Supplies,Storage,117.42,13.0,0.4,4.44
+ORD-10048,2023-06-16,2023-06-21,Standard Class,Customer_297,Corporate,Central,Pennsylvania,Office Supplies,Storage,44.99,4.0,0.0,17.65
+ORD-10049,2023-10-01,2023-10-07,Second Class,Customer_45,Home Office,West,New York,Furniture,Chairs,372.83,6.0,0.0,127.01
+ORD-10050,2024-01-23,2024-01-24,First Class,Customer_263,Corporate,West,Florida,Furniture,Chairs,572.96,9.0,0.0,137.56
+ORD-10051,2024-08-23,2024-08-24,Second Class,Customer_16,Home Office,Central,Washington,Furniture,Tables,152.5,5.0,0.15,44.59
+ORD-10052,2023-11-12,2023-11-13,Standard Class,Customer_205,Consumer,South,California,Office Supplies,Labels,30.28,14.0,0.3,5.83
+ORD-10053,2023-01-14,2023-01-15,Second Class,Customer_51,Consumer,South,Illinois,Office Supplies,Paper,104.21,12.0,0.0,26.4
+ORD-10054,2023-08-30,2023-08-31,Second Class,Customer_166,Corporate,West,Illinois,Office Supplies,Art,35.42,4.0,0.0,8.4
+ORD-10055,2023-12-12,2023-12-14,Standard Class,Customer_90,Consumer,West,Ohio,Office Supplies,Art,123.52,8.0,0.2,19.65
+ORD-10056,2024-07-18,2024-07-24,Standard Class,Customer_29,Consumer,Central,Illinois,Office Supplies,Binders,49.92,13.0,0.15,8.23
+ORD-10057,2023-12-06,2023-12-11,Standard Class,Customer_52,Consumer,South,Michigan,Furniture,Bookcases,683.78,9.0,0.0,247.25
+ORD-10058,2023-04-02,2023-04-05,Second Class,Customer_29,Consumer,West,Florida,Office Supplies,Art,36.16,4.0,0.15,
+ORD-10059,2024-01-02,2024-01-05,Standard Class,Customer_197,Corporate,South,New York,Technology,Phones,944.56,3.0,0.0,160.9
+ORD-10060,2024-03-30,2024-04-05,Second Class,Customer_239,Consumer,West,California,Office Supplies,Labels,,8.0,0.1,5.72
+ORD-10061,2024-03-03,2024-03-09,First Class,Customer_259,Corporate,Central,Michigan,Office Supplies,Paper,68.43,14.0,0.2,9.41
+ORD-10062,2024-05-23,2024-05-26,First Class,Customer_228,Corporate,South,California,Office Supplies,Labels,33.82,5.0,0.2,7.13
+ORD-10063,2023-02-04,2023-02-07,First Class,Customer_262,Consumer,West,Pennsylvania,Office Supplies,Storage,48.83,2.0,,15.11
+ORD-10064,2023-07-25,2023-07-27,Same Day,Customer_47,Consumer,West,New York,Office Supplies,Storage,84.34,10.0,0.4,4.12
+ORD-10065,2023-03-22,2023-03-26,Standard Class,Customer_151,Consumer,West,Illinois,Furniture,Bookcases,257.28,9.0,0.1,68.17
+ORD-10066,2024-07-15,2024-07-20,Second Class,Customer_117,Consumer,West,Pennsylvania,Furniture,Chairs,530.97,3.0,0.2,102.82
+ORD-10067,2024-01-23,2024-01-24,Standard Class,Customer_266,Corporate,Central,Ohio,Furniture,Furnishings,565.98,12.0,0.1,160.24
+ORD-10068,2023-01-02,2023-01-06,First Class,Customer_83,Corporate,South,Pennsylvania,Technology,Accessories,345.56,2.0,0.3,10.22
+ORD-10069,2024-01-25,2024-01-31,Standard Class,Customer_212,Corporate,South,Texas,Office Supplies,Storage,86.69,1.0,0.3,-5.26
+ORD-10070,2024-07-19,2024-07-22,Same Day,Customer_21,Consumer,East,Ohio,Furniture,Tables,234.53,14.0,0.0,59.21
+ORD-10071,2023-04-16,2023-04-20,Second Class,Customer_217,Corporate,South,New York,Furniture,Tables,328.23,8.0,0.4,-6.02
+ORD-10072,2024-04-21,2024-04-26,First Class,Customer_183,Corporate,East,Florida,Office Supplies,Storage,77.84,11.0,0.3,1.33
+ORD-10073,2024-12-03,2024-12-09,Standard Class,Customer_27,Consumer,West,Texas,Furniture,Furnishings,181.71,3.0,,19.49
+ORD-10074,2024-02-06,2024-02-07,Standard Class,Customer_55,Corporate,Central,California,Office Supplies,Storage,12.86,7.0,0.0,6.35
+ORD-10075,2024-12-30,2024-12-31,First Class,Customer_209,Consumer,Central,Washington,Technology,Accessories,190.9,1.0,,45.57
+ORD-10076,2024-07-09,2024-07-14,Standard Class,Customer_207,Corporate,West,Washington,Office Supplies,Storage,33.78,1.0,0.3,2.02
+ORD-10077,2023-06-11,2023-06-16,First Class,Customer_70,Corporate,East,Texas,Office Supplies,Paper,101.63,12.0,0.0,41.04
+ORD-10078,2023-07-21,2023-07-24,Standard Class,Customer_22,Consumer,West,Florida,Technology,Accessories,288.48,9.0,0.4,-12.58
+ORD-10079,2023-09-27,2023-09-28,Second Class,Customer_20,Corporate,Central,Michigan,Office Supplies,Storage,87.99,12.0,0.0,31.58
+ORD-10080,2023-09-28,2023-10-04,Standard Class,Customer_135,Consumer,Central,Washington,Furniture,Chairs,18.74,8.0,0.0,7.22
+ORD-10081,2024-03-31,2024-04-04,Second Class,Customer_39,Consumer,South,Texas,Office Supplies,Labels,19.04,12.0,0.1,4.31
+ORD-10082,2024-04-06,2024-04-12,Second Class,Customer_299,Home Office,East,New York,Technology,Accessories,266.51,13.0,0.15,42.69
+ORD-10083,2024-12-27,2024-12-29,Standard Class,Customer_210,Home Office,South,Georgia,Technology,Accessories,980.01,3.0,0.15,306.66
+ORD-10084,2023-09-09,2023-09-11,,Customer_5,Consumer,Central,Florida,Office Supplies,Labels,56.5,6.0,0.0,22.55
+ORD-10085,2024-12-02,2024-12-07,Standard Class,Customer_241,Consumer,Central,Florida,Furniture,Tables,120.52,11.0,0.4,-22.94
+ORD-10086,2023-10-23,2023-10-26,Second Class,Customer_157,Consumer,South,Michigan,Technology,Phones,58.95,3.0,0.0,17.48
+ORD-10087,2024-12-25,2024-12-27,Standard Class,Customer_147,Consumer,South,Ohio,Technology,Phones,473.65,13.0,0.0,136.17
+ORD-10088,2024-12-20,2024-12-21,Second Class,Customer_196,Home Office,Central,Illinois,Office Supplies,Paper,23.04,12.0,0.0,6.92
+ORD-10089,2023-12-04,2023-12-10,Standard Class,Customer_168,Home Office,South,Washington,Technology,Copiers,212.23,4.0,0.15,60.27
+ORD-10090,2023-02-22,2023-02-28,Standard Class,Customer_43,Corporate,South,Illinois,Technology,Phones,149.83,1.0,0.4,-8.47
+ORD-10091,2023-08-05,2023-08-10,,Customer_3,Consumer,East,Illinois,Office Supplies,Storage,23.38,5.0,0.15,2.43
+ORD-10092,2023-07-07,2023-07-11,Standard Class,Customer_232,Corporate,Central,New York,Office Supplies,Art,15.97,1.0,,0.79
+ORD-10093,2024-01-15,2024-01-20,Standard Class,Customer_32,Consumer,West,California,Office Supplies,Paper,48.5,13.0,0.0,19.08
+ORD-10094,2024-05-07,2024-05-11,Same Day,Customer_36,Home Office,East,Illinois,Furniture,Furnishings,344.86,1.0,0.1,83.6
+ORD-10095,2023-02-10,2023-02-15,First Class,Customer_120,Home Office,West,Florida,Office Supplies,Binders,23.85,10.0,0.1,4.97
+ORD-10096,2023-06-06,2023-06-11,Standard Class,Customer_97,Corporate,South,Michigan,Office Supplies,Binders,150.57,11.0,0.1,43.14
+ORD-10097,2023-01-15,2023-01-20,Second Class,Customer_95,Consumer,South,Michigan,Technology,Phones,551.05,11.0,0.0,264.2
+ORD-10098,2023-03-06,2023-03-10,First Class,Customer_226,Consumer,West,Georgia,Technology,Phones,45.3,14.0,0.15,11.41
+ORD-10099,2024-06-04,2024-06-08,Standard Class,Customer_6,Consumer,South,California,Office Supplies,Storage,55.34,7.0,0.1,20.15
+ORD-10100,2023-12-10,2023-12-15,Standard Class,Customer_224,Home Office,South,Ohio,Furniture,Bookcases,365.2,12.0,0.2,45.21
+ORD-10101,2023-05-09,2023-05-11,Standard Class,Customer_160,Consumer,East,Florida,Office Supplies,Art,65.03,6.0,0.1,16.86
+ORD-10102,2024-10-09,2024-10-12,Standard Class,Customer_88,Consumer,West,Florida,Furniture,Chairs,281.63,2.0,0.0,97.93
+ORD-10103,2024-04-16,2024-04-19,Same Day,Customer_278,Consumer,East,Georgia,Office Supplies,Labels,84.99,14.0,0.15,19.08
+ORD-10104,2023-03-04,2023-03-07,Second Class,Customer_82,Home Office,West,Pennsylvania,Office Supplies,Art,106.41,11.0,0.0,40.99
+ORD-10105,2023-05-19,2023-05-23,Standard Class,Customer_275,Consumer,East,Georgia,Technology,Phones,553.73,12.0,0.3,3.59
+ORD-10106,2024-05-13,2024-05-17,Standard Class,Customer_6,Home Office,Central,Illinois,Office Supplies,Labels,121.53,2.0,0.15,32.42
+ORD-10107,2024-08-15,2024-08-17,First Class,Customer_124,Home Office,Central,Texas,Technology,Phones,718.51,11.0,,157.91
+ORD-10108,2024-01-27,2024-01-30,First Class,Customer_231,Home Office,West,Michigan,Technology,Phones,,7.0,0.4,-36.67
+ORD-10109,2024-11-05,2024-11-08,Second Class,Customer_91,Consumer,Central,Georgia,Office Supplies,Labels,64.81,1.0,0.1,27.92
+ORD-10110,2024-02-23,2024-02-28,Second Class,Customer_62,Consumer,East,Illinois,Technology,Accessories,568.82,13.0,0.0,175.87
+ORD-10111,2023-10-16,2023-10-20,Standard Class,Customer_95,Consumer,West,Washington,Office Supplies,Labels,103.57,2.0,0.15,28.31
+ORD-10112,2024-01-14,2024-01-17,First Class,Customer_145,Consumer,Central,California,Office Supplies,Labels,46.25,12.0,0.0,22.47
+ORD-10113,2024-05-04,2024-05-10,First Class,Customer_180,Consumer,Central,Florida,Office Supplies,Storage,61.04,8.0,0.2,-0.93
+ORD-10114,2023-08-19,2023-08-21,Standard Class,Customer_23,Corporate,West,Pennsylvania,Office Supplies,Storage,7.57,6.0,0.2,1.97
+ORD-10115,2023-02-10,2023-02-16,Second Class,Customer_74,Consumer,Central,California,Office Supplies,Storage,35.59,14.0,0.5,-1.71
+ORD-10116,2023-01-28,2023-02-03,Standard Class,Customer_152,Home Office,Central,Illinois,Office Supplies,Paper,5.0,2.0,,1.96
+ORD-10117,2023-05-15,2023-05-17,Standard Class,Customer_124,Consumer,West,Ohio,Office Supplies,Paper,22.68,7.0,0.1,3.75
+ORD-10118,2023-07-20,2023-07-26,Standard Class,Customer_24,Corporate,Central,Washington,Office Supplies,Labels,28.2,4.0,0.2,8.07
+ORD-10119,2023-02-02,2023-02-05,Standard Class,Customer_239,Corporate,Central,Illinois,Office Supplies,Storage,75.58,2.0,0.0,21.98
+ORD-10120,2023-02-17,2023-02-21,Standard Class,Customer_165,Corporate,Central,Texas,Office Supplies,Paper,26.25,12.0,0.1,9.04
+ORD-10121,2024-05-17,2024-05-19,,Customer_245,Home Office,Central,New York,Office Supplies,Binders,48.6,6.0,,12.49
+ORD-10122,2024-02-11,2024-02-16,Standard Class,Customer_249,Corporate,South,Illinois,Office Supplies,Labels,65.09,11.0,0.0,26.8
+ORD-10123,2024-07-27,2024-08-02,Standard Class,Customer_153,Home Office,West,Georgia,Furniture,Tables,276.79,9.0,0.1,73.05
+ORD-10124,2024-12-28,2024-12-30,Standard Class,Customer_152,Consumer,South,Illinois,Office Supplies,Art,30.97,11.0,0.3,-2.08
+ORD-10125,2023-04-09,2023-04-10,Standard Class,Customer_139,Consumer,South,Georgia,Furniture,Chairs,798.96,9.0,0.3,-135.54
+ORD-10126,2024-11-14,2024-11-15,Second Class,Customer_182,Consumer,East,Ohio,Office Supplies,Art,88.45,14.0,0.0,32.44
+ORD-10127,2024-12-26,2024-12-30,Standard Class,Customer_202,Consumer,South,Florida,Office Supplies,Storage,45.12,8.0,0.0,14.84
+ORD-10128,2024-06-30,2024-07-03,Standard Class,Customer_135,Consumer,South,Michigan,Office Supplies,Art,36.2,3.0,0.0,13.82
+ORD-10129,2024-09-04,2024-09-08,First Class,Customer_158,Consumer,East,New York,Office Supplies,Storage,63.25,3.0,0.3,3.78
+ORD-10130,2024-04-06,2024-04-10,Second Class,Customer_8,Consumer,Central,Ohio,Technology,Phones,470.97,2.0,0.0,240.87
+ORD-10131,2024-10-04,2024-10-08,First Class,Customer_134,Consumer,Central,Georgia,Technology,Copiers,,5.0,0.2,-661.02
+ORD-10132,2023-01-05,2023-01-09,Standard Class,Customer_176,Consumer,South,Michigan,Technology,Machines,230.69,14.0,0.0,72.49
+ORD-10133,2023-08-06,2023-08-11,Standard Class,Customer_149,Home Office,East,Texas,Technology,Copiers,32.13,12.0,0.15,7.78
+ORD-10134,2024-05-17,2024-05-22,Second Class,Customer_33,Consumer,Central,California,Furniture,Chairs,366.05,,0.1,82.62
+ORD-10135,2024-02-02,2024-02-04,Standard Class,Customer_17,Corporate,East,New York,Furniture,Bookcases,145.55,4.0,0.2,25.83
+ORD-10136,2024-01-28,2024-01-29,Standard Class,Customer_10,Consumer,West,Pennsylvania,Office Supplies,Labels,133.98,7.0,0.0,33.84
+ORD-10137,2023-07-26,2023-07-30,Standard Class,Customer_182,Home Office,West,Ohio,Office Supplies,Paper,18.37,4.0,0.15,3.94
+ORD-10138,2023-01-15,2023-01-17,First Class,Customer_183,Home Office,West,California,Office Supplies,Storage,37.57,9.0,0.0,11.71
+ORD-10139,2024-07-07,2024-07-08,Standard Class,Customer_31,Corporate,West,California,Office Supplies,Art,131.2,12.0,,10.52
+ORD-10140,2024-04-05,2024-04-11,First Class,Customer_122,Corporate,South,Illinois,Office Supplies,Storage,37.38,12.0,0.3,8.9
+ORD-10141,2024-11-21,2024-11-24,First Class,Customer_10,Consumer,West,Illinois,Office Supplies,Labels,25.14,2.0,0.0,6.62
+ORD-10142,2024-07-28,2024-08-02,Standard Class,Customer_60,Home Office,West,Pennsylvania,Office Supplies,Binders,103.37,11.0,0.3,8.33
+ORD-10143,2023-08-29,2023-09-04,Second Class,Customer_230,Home Office,East,Pennsylvania,Office Supplies,Storage,1064.87,14.0,0.15,192.85
+ORD-10144,2024-07-17,2024-07-18,Second Class,Customer_91,Home Office,Central,Georgia,Technology,Copiers,60.85,6.0,0.0,22.74
+ORD-10145,2023-04-06,2023-04-12,First Class,Customer_47,Corporate,East,Pennsylvania,Office Supplies,Paper,96.11,7.0,0.1,15.19
+ORD-10146,2024-04-29,2024-05-02,Standard Class,Customer_100,Consumer,South,California,Technology,Copiers,684.58,4.0,0.0,285.63
+ORD-10147,2024-02-11,2024-02-12,,Customer_70,Home Office,West,Georgia,Furniture,Tables,255.8,13.0,0.2,85.15
+ORD-10148,2023-08-19,2023-08-25,Standard Class,Customer_23,Consumer,Central,Michigan,Technology,Phones,140.37,6.0,0.2,14.44
+ORD-10149,2024-10-16,2024-10-21,Same Day,Customer_64,Corporate,Central,Florida,Office Supplies,Paper,137.35,7.0,0.0,61.44
+ORD-10150,2023-06-20,2023-06-25,Standard Class,Customer_161,Consumer,,Florida,Office Supplies,Storage,5.0,4.0,,1.15
+ORD-10151,2024-06-24,2024-06-26,Standard Class,Customer_122,Home Office,West,Florida,Furniture,Chairs,143.85,8.0,0.2,41.78
+ORD-10152,2023-02-05,2023-02-11,First Class,Customer_123,Consumer,South,New York,Office Supplies,Labels,84.16,9.0,0.4,13.89
+ORD-10153,2024-06-08,2024-06-12,,Customer_102,Consumer,South,New York,Furniture,Furnishings,47.03,1.0,0.1,11.35
+ORD-10154,2023-06-09,2023-06-15,Second Class,Customer_31,Corporate,West,Pennsylvania,Furniture,Furnishings,230.19,7.0,0.4,-30.3
+ORD-10155,2024-11-29,2024-11-30,Standard Class,Customer_25,Corporate,West,Florida,Office Supplies,Labels,44.18,9.0,0.1,14.84
+ORD-10156,2023-08-31,2023-09-01,Standard Class,Customer_245,Corporate,West,Texas,Office Supplies,Binders,119.72,12.0,0.1,33.28
+ORD-10157,2023-03-27,2023-04-02,Same Day,Customer_146,Consumer,West,Illinois,Office Supplies,Labels,84.45,10.0,0.3,10.15
+ORD-10158,2024-07-31,2024-08-03,First Class,Customer_299,Consumer,Central,Texas,Technology,Copiers,665.62,5.0,0.1,154.96
+ORD-10159,2024-11-12,2024-11-17,First Class,Customer_10,Corporate,South,Florida,Office Supplies,Storage,8.83,12.0,0.1,1.67
+ORD-10160,2024-07-10,2024-07-11,Standard Class,Customer_102,Home Office,West,Florida,Office Supplies,Storage,40.61,2.0,0.1,14.33
+ORD-10161,2024-07-27,2024-08-01,Standard Class,Customer_33,Corporate,West,Illinois,Furniture,Chairs,404.35,10.0,0.3,42.69
+ORD-10162,2024-10-07,2024-10-08,Second Class,Customer_62,Consumer,Central,Florida,Office Supplies,Paper,106.57,6.0,0.3,-3.78
+ORD-10163,2023-01-28,2023-01-30,First Class,Customer_112,Home Office,East,Ohio,Office Supplies,Storage,13.69,12.0,0.1,4.31
+ORD-10164,2024-09-11,2024-09-15,Standard Class,Customer_174,Consumer,West,California,Technology,Accessories,288.89,12.0,0.0,112.35
+ORD-10165,2024-07-09,2024-07-10,First Class,Customer_98,Corporate,Central,Georgia,Technology,Phones,1239.82,7.0,0.1,290.09
+ORD-10166,2023-12-06,2023-12-11,Standard Class,Customer_72,Consumer,Central,Illinois,Office Supplies,Art,26.9,2.0,0.15,9.27
+ORD-10167,2023-11-27,2023-11-29,Standard Class,Customer_147,Consumer,East,Florida,Furniture,Tables,446.89,2.0,0.0,134.31
+ORD-10168,2024-10-01,2024-10-02,Standard Class,Customer_146,Corporate,South,New York,Technology,Phones,699.68,10.0,0.2,109.49
+ORD-10169,2024-05-20,2024-05-23,Standard Class,Customer_185,Corporate,South,New York,Technology,Accessories,578.63,14.0,0.1,186.03
+ORD-10170,2023-12-14,2023-12-18,,Customer_129,Consumer,South,California,Furniture,Bookcases,596.04,12.0,0.0,212.28
+ORD-10171,2024-04-17,2024-04-18,,Customer_216,Consumer,West,New York,Office Supplies,Art,8.14,10.0,0.0,1.95
+ORD-10172,2023-08-19,2023-08-21,Standard Class,Customer_77,Consumer,South,Georgia,Technology,Phones,592.7,1.0,0.0,216.16
+ORD-10173,2023-07-09,2023-07-12,First Class,Customer_73,Corporate,West,Washington,Furniture,Chairs,250.65,4.0,0.4,-10.82
+ORD-10174,2023-08-13,2023-08-19,Standard Class,Customer_40,Consumer,West,Washington,Technology,Copiers,364.39,7.0,0.0,152.52
+ORD-10175,2024-01-20,2024-01-22,Standard Class,Customer_228,Consumer,Central,Washington,Office Supplies,Art,59.87,14.0,0.0,21.68
+ORD-10176,2024-01-12,2024-01-14,Standard Class,Customer_139,Corporate,South,California,Furniture,Chairs,415.29,9.0,,111.12
+ORD-10177,2023-10-10,2023-10-13,,Customer_72,Corporate,South,California,Technology,Accessories,318.65,3.0,0.0,84.8
+ORD-10178,2024-09-24,2024-09-26,First Class,Customer_118,Corporate,South,Georgia,Office Supplies,Paper,50.19,,0.0,16.64
+ORD-10179,2024-09-19,2024-09-22,Standard Class,Customer_58,Consumer,West,Illinois,Office Supplies,Art,9.42,11.0,0.0,4.03
+ORD-10180,2023-09-16,2023-09-17,First Class,Customer_80,Home Office,West,Pennsylvania,Furniture,Tables,69.23,7.0,0.1,13.7
+ORD-10181,2023-12-25,2023-12-28,Second Class,Customer_287,Home Office,South,Washington,Furniture,Chairs,,7.0,0.15,114.8
+ORD-10182,2024-12-10,2024-12-13,Standard Class,Customer_26,Corporate,West,New York,Office Supplies,Storage,110.37,7.0,0.1,20.43
+ORD-10183,2024-03-31,2024-04-04,Standard Class,Customer_0,Corporate,West,Texas,Office Supplies,Storage,102.98,2.0,0.1,17.02
+ORD-10184,2024-02-15,2024-02-18,Standard Class,Customer_105,Consumer,East,Pennsylvania,Office Supplies,Paper,58.11,6.0,0.4,-0.98
+ORD-10185,2024-10-10,2024-10-13,Standard Class,Customer_101,Home Office,East,Georgia,Technology,Copiers,1010.75,2.0,0.1,276.85
+ORD-10186,2023-11-14,2023-11-20,Second Class,Customer_257,Consumer,South,Illinois,Office Supplies,Art,,6.0,0.0,62.52
+ORD-10187,2024-11-07,2024-11-08,Second Class,Customer_225,Consumer,South,New York,Furniture,Furnishings,632.79,13.0,0.0,198.42
+ORD-10188,2023-08-13,2023-08-17,Standard Class,Customer_276,Consumer,East,Florida,Office Supplies,Art,49.29,10.0,0.1,12.62
+ORD-10189,2023-08-22,2023-08-28,Standard Class,Customer_178,Consumer,West,Illinois,Technology,Copiers,599.05,3.0,0.2,
+ORD-10190,2024-11-14,2024-11-19,Standard Class,Customer_273,Home Office,West,Washington,Office Supplies,Paper,50.23,14.0,0.0,20.04
+ORD-10191,2024-10-25,2024-10-26,Second Class,Customer_107,Corporate,Central,Washington,Office Supplies,Art,58.24,2.0,0.2,11.76
+ORD-10192,2024-01-09,2024-01-10,Standard Class,Customer_104,Corporate,South,Florida,Office Supplies,Storage,79.76,12.0,0.0,37.41
+ORD-10193,2024-11-02,2024-11-07,Standard Class,Customer_126,Corporate,South,Georgia,Office Supplies,Binders,141.74,14.0,0.1,49.46
+ORD-10194,2024-08-30,2024-09-02,Standard Class,Customer_191,Consumer,South,Michigan,Office Supplies,Storage,65.05,6.0,0.2,12.89
+ORD-10195,2024-04-16,2024-04-22,Second Class,Customer_181,Consumer,Central,Illinois,Technology,Machines,107.3,2.0,0.0,33.52
+ORD-10196,2023-08-21,2023-08-23,First Class,Customer_38,Corporate,Central,Florida,Office Supplies,Binders,196.25,5.0,0.15,45.41
+ORD-10197,2024-11-22,2024-11-26,Standard Class,Customer_30,Corporate,West,Georgia,Technology,Machines,325.33,2.0,0.0,110.98
+ORD-10198,2023-04-23,2023-04-25,Standard Class,Customer_125,Consumer,East,Georgia,Office Supplies,Paper,15.21,3.0,0.2,3.75
+ORD-10199,2024-05-11,2024-05-16,Same Day,Customer_120,Corporate,East,California,Furniture,Chairs,350.15,3.0,0.0,145.69
+ORD-10200,2024-03-17,2024-03-18,Standard Class,Customer_39,Consumer,East,Illinois,Office Supplies,Storage,83.27,6.0,0.3,4.69
+ORD-10201,2024-07-17,2024-07-18,Second Class,Customer_103,Consumer,West,New York,Furniture,Chairs,649.34,6.0,0.0,151.32
+ORD-10202,2023-09-25,2023-09-29,Standard Class,Customer_37,Consumer,East,Michigan,Office Supplies,Storage,62.53,10.0,0.3,11.67
+ORD-10203,2024-05-24,2024-05-25,Second Class,Customer_71,Consumer,Central,Ohio,Technology,Accessories,265.91,3.0,0.1,81.51
+ORD-10204,2024-01-21,2024-01-22,Standard Class,Customer_154,Home Office,Central,Texas,Office Supplies,Art,60.28,3.0,0.2,8.71
+ORD-10205,2024-01-22,2024-01-26,Same Day,Customer_129,Home Office,South,Illinois,Office Supplies,Storage,58.44,13.0,0.0,22.99
+ORD-10206,2023-04-23,2023-04-29,Second Class,Customer_1,Consumer,East,Pennsylvania,Furniture,Bookcases,492.34,12.0,0.3,42.34
+ORD-10207,2024-09-04,2024-09-10,First Class,Customer_110,Corporate,,Georgia,Office Supplies,Art,51.63,13.0,0.0,23.52
+ORD-10208,2024-09-16,2024-09-20,Second Class,Customer_79,Corporate,South,California,Office Supplies,Labels,229.39,1.0,0.0,44.87
+ORD-10209,2023-03-22,2023-03-27,Second Class,Customer_177,Consumer,East,Florida,Furniture,Bookcases,660.43,7.0,0.1,150.73
+ORD-10210,2024-11-29,2024-11-30,Standard Class,Customer_184,Consumer,East,Washington,Office Supplies,Binders,32.93,13.0,0.0,15.74
+ORD-10211,2023-04-23,2023-04-24,First Class,Customer_31,Home Office,,Florida,Office Supplies,Art,30.09,8.0,0.0,11.89
+ORD-10212,2023-01-02,2023-01-07,Same Day,Customer_189,Corporate,South,Florida,Office Supplies,Labels,29.18,2.0,0.4,3.85
+ORD-10213,2024-10-03,2024-10-09,Standard Class,Customer_191,Home Office,South,Michigan,Furniture,Chairs,443.95,4.0,0.5,-87.79
+ORD-10214,2023-08-08,2023-08-11,Same Day,Customer_62,Consumer,Central,Illinois,Furniture,Chairs,328.63,10.0,0.1,113.63
+ORD-10215,2024-07-19,2024-07-22,Second Class,Customer_269,Corporate,Central,Florida,Office Supplies,Binders,24.49,7.0,0.4,1.74
+ORD-10216,2023-08-13,2023-08-16,Standard Class,Customer_292,Consumer,Central,Michigan,Office Supplies,Binders,6.26,8.0,0.1,0.79
+ORD-10217,2024-01-20,2024-01-26,Standard Class,Customer_104,Consumer,East,Ohio,Office Supplies,Storage,38.44,1.0,0.0,12.55
+ORD-10218,2024-02-07,2024-02-13,Standard Class,Customer_190,Corporate,Central,New York,Office Supplies,Storage,79.97,4.0,,12.91
+ORD-10219,2024-09-29,2024-10-04,Standard Class,Customer_106,Consumer,Central,Ohio,Office Supplies,Storage,16.55,6.0,0.15,1.41
+ORD-10220,2023-05-10,2023-05-11,Standard Class,Customer_119,Consumer,West,Illinois,Office Supplies,Labels,39.21,3.0,0.5,-4.78
+ORD-10221,2023-02-22,2023-02-27,Standard Class,Customer_242,Consumer,Central,Washington,Furniture,Chairs,667.93,,0.0,
+ORD-10222,2024-11-14,2024-11-19,Standard Class,Customer_25,Consumer,Central,Ohio,Office Supplies,Labels,5.0,10.0,0.15,0.92
+ORD-10223,2024-12-30,2025-01-05,Standard Class,Customer_206,Corporate,East,Michigan,Technology,Machines,267.75,9.0,0.0,98.9
+ORD-10224,2024-11-02,2024-11-05,Same Day,Customer_105,Consumer,South,Michigan,Office Supplies,Paper,33.5,11.0,0.0,12.39
+ORD-10225,2024-12-10,2024-12-12,Standard Class,Customer_63,Consumer,East,Texas,Office Supplies,Labels,12.78,13.0,0.0,4.46
+ORD-10226,2024-02-20,2024-02-21,Standard Class,Customer_196,Consumer,West,Georgia,Technology,Accessories,109.97,3.0,0.5,-17.2
+ORD-10227,2023-09-04,2023-09-10,Standard Class,Customer_96,Consumer,Central,Pennsylvania,Technology,Machines,680.52,5.0,0.2,151.55
+ORD-10228,2024-03-14,2024-03-17,Standard Class,Customer_199,Corporate,Central,Pennsylvania,Office Supplies,Storage,133.54,8.0,0.2,5.75
+ORD-10229,2023-07-22,2023-07-24,First Class,Customer_157,Consumer,Central,Illinois,Office Supplies,Paper,27.35,6.0,0.1,7.13
+ORD-10230,2023-07-03,2023-07-05,Second Class,Customer_146,Corporate,Central,Georgia,Office Supplies,Paper,100.08,4.0,0.0,46.12
+ORD-10231,2023-05-03,2023-05-09,First Class,Customer_99,Consumer,Central,Texas,Office Supplies,Labels,54.65,8.0,0.0,17.17
+ORD-10232,2024-02-05,2024-02-09,Standard Class,Customer_18,Consumer,Central,California,Office Supplies,Art,46.19,11.0,0.0,13.48
+ORD-10233,2023-10-21,2023-10-22,Second Class,Customer_236,Home Office,West,Florida,Office Supplies,Paper,136.94,3.0,0.1,43.55
+ORD-10234,2023-10-07,2023-10-09,Standard Class,Customer_294,Corporate,Central,Ohio,Office Supplies,Binders,26.24,3.0,0.2,4.8
+ORD-10235,2024-09-01,2024-09-07,Standard Class,Customer_138,Consumer,Central,Georgia,Office Supplies,Storage,31.87,4.0,,10.19
+ORD-10236,2023-07-17,2023-07-23,Standard Class,Customer_30,Home Office,Central,Florida,Technology,Copiers,140.78,9.0,0.0,-401.19
+ORD-10237,2024-05-25,2024-05-28,Standard Class,Customer_99,Consumer,West,California,Office Supplies,Binders,76.46,5.0,0.0,12.15
+ORD-10238,2023-05-24,2023-05-28,Standard Class,Customer_288,Home Office,Central,Washington,Furniture,Tables,786.08,8.0,0.0,349.33
+ORD-10239,2024-08-31,2024-09-01,Standard Class,Customer_33,Corporate,West,Texas,Office Supplies,Storage,65.18,6.0,0.1,27.74
+ORD-10240,2023-07-20,2023-07-25,Same Day,Customer_265,Corporate,East,Florida,Office Supplies,Storage,173.2,3.0,0.4,16.06
+ORD-10241,2023-05-04,2023-05-07,Standard Class,Customer_114,Home Office,Central,Texas,Office Supplies,Paper,105.26,8.0,0.15,-7.17
+ORD-10242,2023-07-06,2023-07-08,Standard Class,Customer_187,Consumer,South,Texas,Office Supplies,Paper,118.49,12.0,0.2,24.42
+ORD-10243,2023-11-22,2023-11-24,Standard Class,Customer_263,Corporate,West,Georgia,Office Supplies,Binders,65.9,9.0,,
+ORD-10244,2024-04-08,2024-04-11,Second Class,Customer_65,Consumer,East,Michigan,Office Supplies,Storage,27.27,,0.1,4.72
+ORD-10245,2023-12-15,2023-12-21,Standard Class,Customer_97,Consumer,West,New York,Furniture,Chairs,301.47,13.0,0.0,108.48
+ORD-10246,2024-10-21,2024-10-23,First Class,Customer_214,Consumer,West,Illinois,Furniture,Furnishings,713.14,4.0,0.3,48.55
+ORD-10247,2024-02-07,2024-02-11,Same Day,Customer_172,Consumer,East,Pennsylvania,Office Supplies,Binders,40.47,14.0,0.2,8.53
+ORD-10248,2023-12-12,2023-12-13,Standard Class,Customer_257,Corporate,Central,Texas,Office Supplies,Labels,99.75,14.0,0.0,35.37
+ORD-10249,2024-05-25,2024-05-29,Standard Class,Customer_28,Corporate,Central,Georgia,Technology,Phones,173.36,13.0,0.1,29.53
+ORD-10250,2023-05-27,2023-05-29,Standard Class,Customer_144,Corporate,West,Georgia,Office Supplies,Labels,97.28,11.0,0.1,20.8
+ORD-10251,2023-05-28,2023-06-02,Second Class,Customer_131,Consumer,East,Florida,Office Supplies,Labels,59.56,6.0,0.15,9.29
+ORD-10252,2024-12-11,2024-12-12,Standard Class,Customer_260,Consumer,Central,Florida,Office Supplies,Labels,41.96,1.0,0.4,-6.18
+ORD-10253,2024-05-03,2024-05-04,Standard Class,Customer_295,Home Office,West,Ohio,Furniture,Furnishings,342.6,4.0,0.15,36.06
+ORD-10254,2024-10-01,2024-10-04,Standard Class,Customer_181,Consumer,South,Texas,Technology,Copiers,670.9,8.0,0.1,163.11
+ORD-10255,2024-07-04,2024-07-07,Second Class,Customer_12,Corporate,East,New York,Office Supplies,Binders,115.47,1.0,0.0,53.56
+ORD-10256,2023-12-04,2023-12-09,Standard Class,Customer_253,Corporate,South,Illinois,Office Supplies,Binders,31.24,3.0,0.0,9.59
+ORD-10257,2024-10-02,2024-10-08,Standard Class,Customer_289,Corporate,South,Illinois,Furniture,Furnishings,228.08,1.0,0.0,66.01
+ORD-10258,2024-04-17,2024-04-18,Second Class,Customer_237,Corporate,West,Washington,Office Supplies,Storage,84.43,9.0,0.0,21.57
+ORD-10259,2023-05-31,2023-06-05,,Customer_45,Home Office,East,Washington,Office Supplies,Paper,220.62,2.0,0.2,38.04
+ORD-10260,2024-02-19,2024-02-22,First Class,Customer_204,Consumer,Central,Ohio,Technology,Machines,1494.29,9.0,0.2,395.0
+ORD-10261,2023-10-25,2023-10-28,Standard Class,Customer_141,Home Office,Central,Pennsylvania,Furniture,Furnishings,715.05,13.0,0.0,364.83
+ORD-10262,2024-09-02,2024-09-03,First Class,Customer_194,Consumer,West,Washington,Office Supplies,Binders,1484.67,4.0,0.3,76.68
+ORD-10263,2023-09-20,2023-09-24,Second Class,Customer_115,Consumer,Central,California,Technology,Accessories,193.34,2.0,0.0,69.83
+ORD-10264,2023-05-24,2023-05-26,Standard Class,Customer_112,Consumer,Central,Ohio,Office Supplies,Art,23.16,4.0,0.0,7.1
+ORD-10265,2023-12-12,2023-12-15,Second Class,Customer_92,Corporate,South,Illinois,Office Supplies,Storage,20.41,12.0,0.0,6.53
+ORD-10266,2024-09-15,2024-09-21,Standard Class,Customer_199,Consumer,South,Illinois,Furniture,Bookcases,148.05,11.0,0.1,45.94
+ORD-10267,2024-07-25,2024-07-31,Same Day,Customer_101,Consumer,East,New York,Technology,Copiers,617.8,11.0,0.0,200.67
+ORD-10268,2023-01-02,2023-01-05,Standard Class,Customer_178,Consumer,South,Georgia,Furniture,Bookcases,334.65,10.0,0.1,82.66
+ORD-10269,2023-10-31,2023-11-04,Second Class,Customer_286,Home Office,Central,California,Office Supplies,Art,1045.04,6.0,0.1,69.01
+ORD-10270,2023-09-11,2023-09-15,Standard Class,Customer_147,Home Office,East,Pennsylvania,Office Supplies,Labels,134.91,11.0,0.5,-19.87
+ORD-10271,2024-10-13,2024-10-18,Same Day,Customer_194,Corporate,East,Florida,Office Supplies,Labels,65.27,7.0,0.0,22.45
+ORD-10272,2024-03-28,2024-04-03,Standard Class,Customer_13,Corporate,West,Ohio,Office Supplies,Paper,56.82,3.0,0.0,10.71
+ORD-10273,2023-02-06,2023-02-11,Same Day,Customer_251,Consumer,South,Washington,Furniture,Chairs,1029.32,3.0,0.0,405.46
+ORD-10274,2023-06-09,2023-06-15,First Class,Customer_240,Consumer,East,Michigan,Office Supplies,Labels,39.85,12.0,0.15,16.07
+ORD-10275,2023-01-09,2023-01-11,Standard Class,Customer_273,Home Office,Central,New York,Technology,Machines,120.79,10.0,0.0,36.94
+ORD-10276,2023-08-21,2023-08-23,First Class,Customer_242,Consumer,East,Illinois,Technology,Machines,598.66,12.0,0.3,65.8
+ORD-10277,2023-04-09,2023-04-10,Same Day,Customer_223,Consumer,East,Michigan,Office Supplies,Paper,35.04,8.0,0.1,11.5
+ORD-10278,2024-10-20,2024-10-25,Standard Class,Customer_41,Consumer,West,Ohio,Office Supplies,Binders,63.19,5.0,0.1,22.9
+ORD-10279,2023-07-27,2023-07-30,Standard Class,Customer_284,Consumer,Central,Texas,Furniture,Bookcases,148.93,4.0,0.15,28.87
+ORD-10280,2023-05-11,2023-05-16,Standard Class,Customer_27,Consumer,Central,Pennsylvania,Furniture,Tables,478.02,7.0,0.0,98.35
+ORD-10281,2024-02-08,2024-02-11,Standard Class,Customer_193,Corporate,South,Texas,Furniture,Tables,322.32,7.0,0.0,119.7
+ORD-10282,2023-06-01,2023-06-05,,Customer_14,Consumer,Central,Ohio,Office Supplies,Art,53.42,13.0,0.0,19.25
+ORD-10283,2023-02-23,2023-02-28,Standard Class,Customer_94,Corporate,East,Texas,Office Supplies,Art,92.48,9.0,0.15,17.32
+ORD-10284,2023-04-30,2023-05-04,Standard Class,Customer_248,Consumer,Central,Pennsylvania,Office Supplies,Paper,137.72,9.0,,46.73
+ORD-10285,2024-11-03,2024-11-05,,Customer_79,Consumer,Central,Georgia,Office Supplies,Paper,166.66,,0.0,60.25
+ORD-10286,2024-09-19,2024-09-21,Standard Class,Customer_282,Consumer,,Ohio,Office Supplies,Paper,91.49,13.0,0.5,-6.5
+ORD-10287,2024-08-09,2024-08-10,First Class,Customer_107,Corporate,West,Michigan,Office Supplies,Labels,58.24,12.0,0.0,21.87
+ORD-10288,2024-09-16,2024-09-21,Second Class,Customer_7,Consumer,,Texas,Technology,Copiers,440.96,13.0,0.2,67.28
+ORD-10289,2024-02-24,2024-02-28,Standard Class,Customer_129,Corporate,South,Pennsylvania,Office Supplies,Art,107.25,8.0,0.2,21.53
+ORD-10290,2024-02-26,2024-02-29,Second Class,Customer_227,Corporate,West,Washington,Technology,Accessories,183.97,10.0,0.0,60.19
+ORD-10291,2023-04-14,2023-04-16,Second Class,Customer_71,Corporate,East,Florida,Technology,Machines,223.18,1.0,0.0,89.57
+ORD-10292,2023-09-11,2023-09-13,Same Day,Customer_136,Consumer,South,Pennsylvania,Furniture,Bookcases,55.81,9.0,0.0,16.73
+ORD-10293,2023-08-15,2023-08-18,Standard Class,Customer_82,Consumer,West,New York,Technology,Copiers,846.94,8.0,0.15,187.04
+ORD-10294,2023-04-22,2023-04-26,Standard Class,Customer_156,Consumer,West,Florida,Office Supplies,Storage,149.2,6.0,0.15,12.7
+ORD-10295,2024-05-24,2024-05-28,First Class,Customer_206,Corporate,West,Washington,Office Supplies,Labels,809.73,13.0,0.2,100.46
+ORD-10296,2024-04-17,2024-04-22,Same Day,Customer_94,Consumer,South,California,Office Supplies,Labels,11.61,3.0,0.4,0.41
+ORD-10297,2023-04-09,2023-04-14,Second Class,Customer_205,Home Office,South,Michigan,Office Supplies,Binders,81.08,3.0,0.15,10.73
+ORD-10298,2023-06-02,2023-06-08,,Customer_215,Home Office,South,Illinois,Office Supplies,Binders,41.09,8.0,0.0,13.33
+ORD-10299,2023-12-04,2023-12-10,Standard Class,Customer_225,Consumer,South,Washington,Office Supplies,Binders,70.52,5.0,0.0,11.11
+ORD-10300,2024-12-06,2024-12-07,Standard Class,Customer_224,Consumer,Central,Georgia,Office Supplies,Labels,169.74,10.0,0.3,-5.0
+ORD-10301,2023-06-12,2023-06-14,Standard Class,Customer_72,Corporate,West,Florida,Office Supplies,Labels,28.43,11.0,0.0,7.44
+ORD-10302,2024-12-20,2024-12-25,Standard Class,Customer_162,Consumer,Central,Georgia,Office Supplies,Labels,92.51,14.0,0.0,33.13
+ORD-10303,2024-11-11,2024-11-15,First Class,Customer_34,Consumer,West,Florida,Office Supplies,Storage,50.75,7.0,0.2,9.98
+ORD-10304,2023-06-10,2023-06-13,Standard Class,Customer_78,Home Office,South,New York,Furniture,Chairs,346.7,5.0,0.1,88.59
+ORD-10305,2024-08-02,2024-08-06,Standard Class,Customer_251,Consumer,South,California,Furniture,Bookcases,77.0,8.0,0.4,-3.13
+ORD-10306,2024-02-02,2024-02-04,Same Day,Customer_233,Home Office,Central,Illinois,Technology,Phones,315.36,10.0,0.15,58.24
+ORD-10307,2023-10-04,2023-10-10,Standard Class,Customer_46,Corporate,East,New York,Office Supplies,Binders,20.05,10.0,0.0,8.17
+ORD-10308,2024-05-18,2024-05-22,Same Day,Customer_115,Corporate,South,Washington,Furniture,Tables,560.19,4.0,0.4,3.94
+ORD-10309,2024-01-27,2024-01-28,Same Day,Customer_27,Consumer,East,Georgia,Furniture,Bookcases,355.55,2.0,0.0,114.94
+ORD-10310,2023-05-15,2023-05-17,Second Class,Customer_283,Consumer,West,Florida,Office Supplies,Binders,83.67,3.0,0.0,37.94
+ORD-10311,2023-07-14,2023-07-20,Standard Class,Customer_118,Corporate,Central,Washington,Technology,Machines,216.3,8.0,0.1,89.98
+ORD-10312,2024-02-05,2024-02-08,Standard Class,Customer_89,Consumer,East,Pennsylvania,Office Supplies,Paper,37.74,11.0,0.0,9.45
+ORD-10313,2024-10-01,2024-10-07,Standard Class,Customer_50,Consumer,East,California,Technology,Accessories,797.15,13.0,,240.58
+ORD-10314,2023-02-02,2023-02-03,Standard Class,Customer_114,Consumer,South,Michigan,Office Supplies,Art,45.71,7.0,0.0,27.3
+ORD-10315,2024-11-18,2024-11-20,Standard Class,Customer_213,Consumer,East,Pennsylvania,Office Supplies,Art,36.56,13.0,0.1,10.33
+ORD-10316,2024-04-04,2024-04-07,Same Day,Customer_266,Consumer,East,Georgia,Office Supplies,Art,96.8,2.0,0.1,26.06
+ORD-10317,2024-04-14,2024-04-15,Standard Class,Customer_134,Corporate,West,California,Office Supplies,Paper,29.4,6.0,0.2,4.87
+ORD-10318,2024-01-10,2024-01-16,Second Class,Customer_255,Consumer,Central,California,Furniture,Tables,,9.0,0.2,47.04
+ORD-10319,2023-01-22,2023-01-23,Standard Class,Customer_198,Consumer,South,Washington,Technology,Accessories,418.82,4.0,0.0,171.88
+ORD-10320,2024-10-31,2024-11-02,,Customer_86,Corporate,South,Pennsylvania,Technology,Copiers,584.07,9.0,0.1,93.7
+ORD-10321,2023-02-07,2023-02-12,First Class,Customer_193,Home Office,East,Washington,Office Supplies,Art,47.84,2.0,0.1,12.34
+ORD-10322,2023-08-18,2023-08-19,Standard Class,Customer_213,Consumer,West,Washington,Technology,Phones,109.67,2.0,0.0,18.47
+ORD-10323,2023-12-31,2024-01-01,Standard Class,Customer_277,Consumer,East,Washington,Technology,Copiers,648.49,9.0,0.2,99.38
+ORD-10324,2024-07-16,2024-07-22,Second Class,Customer_201,Corporate,East,Georgia,Office Supplies,Art,124.19,12.0,0.2,12.14
+ORD-10325,2024-03-13,2024-03-19,Second Class,Customer_167,Home Office,South,Florida,Furniture,Chairs,208.31,7.0,,78.56
+ORD-10326,2023-10-10,2023-10-13,Second Class,Customer_16,Corporate,East,Florida,Office Supplies,Storage,45.1,7.0,0.1,5.75
+ORD-10327,2023-01-27,2023-02-02,Standard Class,Customer_53,Corporate,East,Georgia,Office Supplies,Paper,22.33,1.0,0.0,6.9
+ORD-10328,2023-08-14,2023-08-18,Standard Class,Customer_177,Consumer,West,Illinois,Office Supplies,Art,57.66,13.0,0.15,16.86
+ORD-10329,2023-10-04,2023-10-06,Same Day,Customer_204,Corporate,South,Michigan,Furniture,Bookcases,154.19,11.0,0.0,45.62
+ORD-10330,2024-08-31,2024-09-02,First Class,Customer_261,Consumer,Central,New York,Technology,Machines,1093.86,6.0,0.5,-276.08
+ORD-10331,2023-10-11,2023-10-16,Standard Class,Customer_53,Corporate,West,Michigan,Furniture,Tables,252.7,13.0,0.2,48.17
+ORD-10332,2024-04-25,2024-04-30,First Class,Customer_86,Corporate,West,Georgia,Office Supplies,Paper,,7.0,0.1,8.32
+ORD-10333,2024-03-28,2024-03-30,Standard Class,Customer_252,Home Office,West,Texas,Technology,Accessories,317.51,11.0,0.15,63.54
+ORD-10334,2024-10-20,2024-10-25,Standard Class,Customer_30,Consumer,South,New York,Technology,Copiers,218.02,14.0,0.3,4.71
+ORD-10335,2024-05-30,2024-06-02,Standard Class,Customer_98,Consumer,East,Illinois,Office Supplies,Paper,,6.0,0.15,23.7
+ORD-10336,2024-06-30,2024-07-06,Standard Class,Customer_59,Corporate,Central,Ohio,Technology,Machines,,6.0,0.0,70.73
+ORD-10337,2023-07-11,2023-07-13,Standard Class,Customer_191,Corporate,South,New York,Furniture,Bookcases,,2.0,0.1,280.77
+ORD-10338,2023-02-18,2023-02-23,Standard Class,Customer_63,Corporate,East,California,Furniture,Chairs,369.6,6.0,0.3,18.02
+ORD-10339,2024-05-26,2024-05-28,Standard Class,Customer_74,Consumer,West,Georgia,Office Supplies,Art,81.1,4.0,0.15,18.63
+ORD-10340,2023-01-17,2023-01-21,First Class,Customer_172,Consumer,South,Ohio,Office Supplies,Binders,87.29,9.0,0.15,14.75
+ORD-10341,2023-06-21,2023-06-22,Second Class,Customer_284,Corporate,East,Michigan,Office Supplies,Binders,123.91,12.0,0.3,3.8
+ORD-10342,2023-08-08,2023-08-14,Second Class,Customer_267,Consumer,Central,Ohio,Office Supplies,Binders,37.43,1.0,0.3,0.64
+ORD-10343,2023-06-07,2023-06-09,First Class,Customer_77,Home Office,Central,Georgia,Furniture,Tables,180.17,13.0,,23.08
+ORD-10344,2024-04-21,2024-04-22,Standard Class,Customer_274,Consumer,East,Michigan,Furniture,Chairs,206.72,8.0,0.0,49.02
+ORD-10345,2023-02-15,2023-02-20,Second Class,Customer_124,Corporate,South,Georgia,Office Supplies,Paper,55.04,5.0,0.1,15.91
+ORD-10346,2024-01-08,2024-01-09,First Class,Customer_13,Corporate,West,Pennsylvania,Office Supplies,Paper,67.9,1.0,0.2,-0.32
+ORD-10347,2024-06-01,2024-06-07,Standard Class,Customer_35,Corporate,East,Texas,Office Supplies,Binders,25.02,4.0,0.2,4.8
+ORD-10348,2023-04-09,2023-04-11,Standard Class,Customer_107,Consumer,West,Illinois,Office Supplies,Paper,33.37,1.0,0.15,9.44
+ORD-10349,2023-02-06,2023-02-10,Standard Class,Customer_84,Home Office,Central,Illinois,Office Supplies,Binders,68.1,6.0,0.0,16.89
+ORD-10350,2023-10-07,2023-10-12,,Customer_153,Consumer,East,California,Furniture,Tables,360.33,2.0,,80.82
+ORD-10351,2023-12-15,2023-12-17,Standard Class,Customer_209,Corporate,,Texas,Furniture,Chairs,230.79,5.0,0.2,40.18
+ORD-10352,2024-05-11,2024-05-17,First Class,Customer_38,Consumer,West,Texas,Technology,Copiers,111.27,7.0,0.0,53.17
+ORD-10353,2023-10-29,2023-11-03,Second Class,Customer_87,Consumer,West,California,Office Supplies,Binders,61.07,2.0,0.1,11.7
+ORD-10354,2023-06-30,2023-07-03,Second Class,Customer_120,Consumer,East,Michigan,Furniture,Furnishings,496.21,6.0,0.0,285.46
+ORD-10355,2024-08-29,2024-08-30,First Class,Customer_89,Consumer,East,California,Office Supplies,Labels,82.21,6.0,0.0,13.05
+ORD-10356,2023-04-09,2023-04-15,Second Class,Customer_92,Home Office,East,Michigan,Office Supplies,Art,44.7,5.0,0.0,14.47
+ORD-10357,2024-11-30,2024-12-03,Standard Class,Customer_115,Consumer,,California,Office Supplies,Storage,,5.0,0.1,3.23
+ORD-10358,2023-04-26,2023-04-28,Standard Class,Customer_277,Corporate,West,New York,Office Supplies,Binders,18.48,14.0,0.1,7.54
+ORD-10359,2023-07-10,2023-07-14,First Class,Customer_93,Home Office,West,New York,Office Supplies,Binders,24.43,3.0,0.15,4.74
+ORD-10360,2023-09-10,2023-09-15,Standard Class,Customer_134,Consumer,Central,Pennsylvania,Office Supplies,Storage,73.9,10.0,0.15,14.87
+ORD-10361,2023-06-10,2023-06-11,Standard Class,Customer_236,Corporate,East,Florida,Furniture,Bookcases,246.49,10.0,0.3,28.46
+ORD-10362,2023-09-13,2023-09-18,Standard Class,Customer_286,Consumer,South,California,Office Supplies,Binders,53.0,11.0,0.0,18.53
+ORD-10363,2023-11-19,2023-11-21,First Class,Customer_87,Consumer,East,Texas,Technology,Machines,74.8,12.0,0.0,22.63
+ORD-10364,2023-05-08,2023-05-13,Standard Class,Customer_244,Consumer,South,New York,Office Supplies,Paper,101.56,2.0,0.3,-2.09
+ORD-10365,2023-01-18,2023-01-19,Second Class,Customer_43,Home Office,South,Washington,Technology,Copiers,917.49,7.0,0.0,333.49
+ORD-10366,2024-07-19,2024-07-21,Standard Class,Customer_44,Consumer,Central,Michigan,Office Supplies,Art,29.17,1.0,0.5,-2.03
+ORD-10367,2024-07-23,2024-07-28,Standard Class,Customer_231,Corporate,West,New York,Office Supplies,Art,140.79,6.0,0.3,19.1
+ORD-10368,2023-11-19,2023-11-23,Second Class,Customer_166,Consumer,West,New York,Office Supplies,Paper,37.42,6.0,0.1,15.45
+ORD-10369,2024-11-16,2024-11-22,Standard Class,Customer_121,Home Office,West,Georgia,Office Supplies,Storage,22.54,3.0,0.5,-6.17
+ORD-10370,2024-09-17,2024-09-19,Second Class,Customer_51,Consumer,West,Michigan,Office Supplies,Labels,27.28,2.0,0.0,9.4
+ORD-10371,2023-10-15,2023-10-21,First Class,Customer_118,Corporate,,Illinois,Furniture,Bookcases,203.43,12.0,0.0,90.6
+ORD-10372,2024-10-24,2024-10-26,First Class,Customer_155,Corporate,South,Ohio,Office Supplies,Binders,31.92,2.0,0.15,6.54
+ORD-10373,2024-09-30,2024-10-04,Standard Class,Customer_34,Corporate,West,Michigan,Technology,Accessories,298.22,14.0,0.1,21.75
+ORD-10374,2023-06-04,2023-06-10,First Class,Customer_60,Home Office,South,Pennsylvania,Office Supplies,Art,29.31,13.0,0.4,-3.32
+ORD-10375,2024-05-04,2024-05-07,Second Class,Customer_42,Home Office,Central,Georgia,Furniture,Bookcases,543.87,9.0,0.0,204.65
+ORD-10376,2024-01-21,2024-01-22,First Class,Customer_237,Consumer,East,Michigan,Office Supplies,Labels,33.12,11.0,0.1,9.39
+ORD-10377,2023-04-14,2023-04-17,Standard Class,Customer_279,Consumer,Central,Michigan,Technology,Phones,84.36,5.0,0.15,22.67
+ORD-10378,2024-01-28,2024-02-02,Standard Class,Customer_167,Consumer,West,Florida,Office Supplies,Paper,20.49,7.0,0.15,3.13
+ORD-10379,2023-09-03,2023-09-07,First Class,Customer_34,Consumer,East,Georgia,Office Supplies,Paper,41.97,12.0,0.0,15.56
+ORD-10380,2023-06-25,2023-06-28,First Class,Customer_8,Consumer,Central,Michigan,Furniture,Chairs,272.04,5.0,0.1,50.14
+ORD-10381,2023-02-08,2023-02-10,Standard Class,Customer_75,Consumer,Central,Ohio,Office Supplies,Binders,96.44,7.0,0.3,9.72
+ORD-10382,2024-04-21,2024-04-26,Standard Class,Customer_140,Consumer,South,Ohio,Office Supplies,Art,44.95,13.0,0.0,15.92
+ORD-10383,2024-11-12,2024-11-17,Standard Class,Customer_269,Home Office,Central,Washington,Technology,Machines,453.81,4.0,0.3,6.5
+ORD-10384,2024-06-21,2024-06-24,Standard Class,Customer_75,Consumer,East,Georgia,Office Supplies,Binders,36.93,8.0,0.15,12.54
+ORD-10385,2024-02-12,2024-02-15,Standard Class,Customer_229,Home Office,Central,Illinois,Furniture,Furnishings,366.3,13.0,,12.29
+ORD-10386,2024-06-08,2024-06-12,Standard Class,Customer_133,Consumer,West,Michigan,Furniture,Bookcases,57.98,,0.2,9.2
+ORD-10387,2024-05-20,2024-05-21,First Class,Customer_261,Corporate,South,Florida,Furniture,Tables,374.87,14.0,0.0,105.93
+ORD-10388,2023-02-05,2023-02-08,Standard Class,Customer_119,Home Office,East,Florida,Office Supplies,Labels,40.92,10.0,0.15,14.8
+ORD-10389,2024-11-15,2024-11-18,Second Class,Customer_65,Consumer,East,Texas,Office Supplies,Labels,99.74,13.0,0.3,12.75
+ORD-10390,2023-01-20,2023-01-26,Standard Class,Customer_172,Consumer,Central,Illinois,Office Supplies,Storage,104.88,11.0,0.1,21.82
+ORD-10391,2023-11-17,2023-11-19,Standard Class,Customer_276,Consumer,West,Florida,Office Supplies,Labels,69.61,10.0,0.4,-2.25
+ORD-10392,2024-05-26,2024-06-01,Standard Class,Customer_38,Consumer,South,Ohio,Office Supplies,Labels,37.14,7.0,0.1,15.19
+ORD-10393,2024-02-04,2024-02-10,Standard Class,Customer_170,Home Office,East,Texas,Furniture,Chairs,227.02,10.0,0.0,62.27
+ORD-10394,2024-10-15,2024-10-20,First Class,Customer_273,Home Office,,California,Furniture,Furnishings,122.96,5.0,0.1,14.61
+ORD-10395,2024-04-15,2024-04-16,First Class,Customer_137,Consumer,Central,Florida,Technology,Copiers,325.58,11.0,0.4,4.32
+ORD-10396,2023-05-23,2023-05-25,Standard Class,Customer_261,Consumer,West,Pennsylvania,Office Supplies,Storage,13.59,6.0,0.0,5.1
+ORD-10397,2023-04-02,2023-04-06,Standard Class,Customer_79,Consumer,Central,Georgia,Office Supplies,Binders,42.77,5.0,0.3,5.7
+ORD-10398,2023-12-20,2023-12-24,Standard Class,Customer_32,Consumer,South,Florida,Technology,Copiers,723.8,7.0,0.3,96.85
+ORD-10399,2024-12-27,2024-12-30,First Class,Customer_73,Corporate,Central,New York,Office Supplies,Binders,34.39,12.0,0.1,13.81
+ORD-10400,2023-02-20,2023-02-23,First Class,Customer_108,Consumer,South,Illinois,Technology,Accessories,482.55,2.0,0.0,102.57
+ORD-10401,2024-10-26,2024-10-30,Standard Class,Customer_39,Corporate,East,New York,Office Supplies,Binders,,5.0,0.2,5.89
+ORD-10402,2024-11-28,2024-12-01,Second Class,Customer_184,Consumer,East,Washington,Technology,Phones,687.42,10.0,0.0,277.01
+ORD-10403,2024-07-28,2024-07-29,First Class,Customer_67,Consumer,Central,Florida,Furniture,Furnishings,199.59,3.0,0.2,16.28
+ORD-10404,2023-07-09,2023-07-15,Standard Class,Customer_194,Corporate,East,California,Furniture,Bookcases,125.05,9.0,,17.94
+ORD-10405,2023-05-05,2023-05-08,Standard Class,Customer_15,Consumer,South,New York,Office Supplies,Storage,18.78,13.0,0.1,7.69
+ORD-10406,2023-05-30,2023-06-04,First Class,Customer_297,Home Office,East,New York,Technology,Copiers,170.49,6.0,0.2,6.89
+ORD-10407,2023-11-10,2023-11-13,Second Class,Customer_148,Home Office,West,Illinois,Technology,Phones,273.19,13.0,0.1,63.35
+ORD-10408,2024-07-23,2024-07-25,Standard Class,Customer_17,Consumer,West,Texas,Furniture,Tables,76.95,10.0,,19.64
+ORD-10409,2023-12-08,2023-12-09,Standard Class,Customer_73,Consumer,Central,California,Office Supplies,Binders,27.72,,0.1,10.11
+ORD-10410,2023-11-01,2023-11-03,Standard Class,Customer_126,Home Office,Central,New York,Technology,Phones,767.88,7.0,0.1,84.85
+ORD-10411,2024-11-22,2024-11-24,Standard Class,Customer_296,Home Office,Central,Michigan,Office Supplies,Art,97.05,4.0,0.1,28.46
+ORD-10412,2024-11-12,2024-11-17,Second Class,Customer_22,Home Office,Central,California,Technology,Copiers,44.73,14.0,0.2,4.42
+ORD-10413,2023-02-23,2023-02-24,Standard Class,Customer_9,Consumer,South,Michigan,Technology,Phones,1615.68,3.0,0.1,501.2
+ORD-10414,2024-03-19,2024-03-20,Second Class,Customer_84,Home Office,South,Florida,Office Supplies,Storage,119.16,8.0,0.1,22.34
+ORD-10415,2024-09-04,2024-09-05,First Class,Customer_61,Consumer,West,New York,Office Supplies,Paper,13.0,13.0,0.15,4.43
+ORD-10416,2023-09-21,2023-09-22,Standard Class,Customer_185,Corporate,South,New York,Office Supplies,Storage,52.38,4.0,0.0,14.56
+ORD-10417,2023-02-22,2023-02-23,Standard Class,Customer_226,Home Office,East,Ohio,Office Supplies,Art,33.96,11.0,0.0,5.2
+ORD-10418,2024-07-25,2024-07-30,Standard Class,Customer_226,Consumer,West,Ohio,Technology,Phones,233.24,1.0,0.4,-17.05
+ORD-10419,2024-09-11,2024-09-14,Second Class,Customer_160,Home Office,Central,Illinois,Office Supplies,Art,12.37,6.0,0.2,1.84
+ORD-10420,2023-01-05,2023-01-07,Standard Class,Customer_176,Consumer,Central,Georgia,Technology,Machines,683.23,10.0,0.15,206.05
+ORD-10421,2023-04-13,2023-04-14,Second Class,Customer_259,Home Office,South,Georgia,Furniture,Chairs,526.08,11.0,0.15,60.15
+ORD-10422,2023-07-15,2023-07-18,First Class,Customer_20,Consumer,West,Texas,Technology,Phones,492.94,11.0,0.0,123.68
+ORD-10423,2023-12-16,2023-12-19,Standard Class,Customer_59,Home Office,South,Illinois,Office Supplies,Paper,168.83,1.0,0.15,49.27
+ORD-10424,2023-02-16,2023-02-18,First Class,Customer_164,Consumer,South,Georgia,Furniture,Chairs,257.81,5.0,0.1,38.67
+ORD-10425,2024-10-17,2024-10-22,Same Day,Customer_279,Corporate,South,Illinois,Furniture,Chairs,165.13,7.0,0.1,40.57
+ORD-10426,2023-09-26,2023-09-30,Standard Class,Customer_282,Corporate,West,New York,Office Supplies,Art,21.33,6.0,0.1,5.27
+ORD-10427,2024-01-05,2024-01-09,Standard Class,Customer_257,Consumer,Central,Ohio,Office Supplies,Paper,24.11,14.0,0.0,8.86
+ORD-10428,2024-09-27,2024-09-30,Same Day,Customer_54,Consumer,East,Ohio,Technology,Copiers,880.34,2.0,0.0,255.31
+ORD-10429,2023-04-16,2023-04-22,Same Day,Customer_27,Corporate,Central,Ohio,Furniture,Chairs,387.94,11.0,0.4,-32.65
+ORD-10430,2024-10-31,2024-11-06,Standard Class,Customer_84,Consumer,West,Georgia,Furniture,Chairs,212.52,4.0,0.1,60.95
+ORD-10431,2024-10-20,2024-10-22,Standard Class,Customer_215,Corporate,Central,California,Office Supplies,Storage,29.53,11.0,0.1,5.56
+ORD-10432,2024-10-18,2024-10-22,Standard Class,Customer_270,Consumer,Central,Pennsylvania,Office Supplies,Binders,84.75,2.0,0.0,20.44
+ORD-10433,2023-04-30,2023-05-03,Same Day,Customer_186,Home Office,East,New York,Office Supplies,Art,15.28,11.0,0.0,6.85
+ORD-10434,2024-08-26,2024-08-31,Standard Class,Customer_192,Consumer,Central,Florida,Technology,Phones,138.62,1.0,0.2,28.98
+ORD-10435,2023-02-27,2023-03-03,Standard Class,Customer_4,Consumer,Central,Illinois,Technology,Machines,685.44,,0.1,275.14
+ORD-10436,2023-12-12,2023-12-15,First Class,Customer_55,Consumer,Central,Ohio,Technology,Phones,482.86,3.0,0.1,155.83
+ORD-10437,2024-04-18,2024-04-21,Standard Class,Customer_109,Consumer,South,Ohio,Technology,Phones,160.54,12.0,0.0,39.9
+ORD-10438,2023-04-27,2023-04-28,Second Class,Customer_195,Consumer,West,Ohio,Office Supplies,Paper,54.39,7.0,0.2,9.67
+ORD-10439,2023-05-07,2023-05-12,Standard Class,Customer_2,Consumer,West,New York,Office Supplies,Binders,24.12,1.0,0.0,6.48
+ORD-10440,2024-01-28,2024-01-29,First Class,Customer_214,Home Office,East,Ohio,Office Supplies,Art,52.77,9.0,0.0,11.5
+ORD-10441,2024-10-02,2024-10-04,Standard Class,Customer_54,Corporate,South,Texas,Technology,Accessories,359.26,11.0,0.1,80.55
+ORD-10442,2023-02-27,2023-02-28,Second Class,Customer_195,Corporate,South,Illinois,Furniture,Bookcases,198.58,6.0,0.0,85.09
+ORD-10443,2024-09-25,2024-09-26,Second Class,Customer_267,Consumer,Central,New York,Office Supplies,Art,34.12,4.0,0.0,12.69
+ORD-10444,2024-05-27,2024-05-31,Standard Class,Customer_196,Corporate,West,Illinois,Furniture,Tables,114.8,3.0,,11.91
+ORD-10445,2023-04-06,2023-04-12,Standard Class,Customer_169,Consumer,East,Michigan,Office Supplies,Art,37.1,3.0,0.15,6.54
+ORD-10446,2024-09-29,2024-10-02,Standard Class,Customer_272,Corporate,South,Washington,Technology,Copiers,1000.0,2.0,0.3,68.57
+ORD-10447,2023-04-28,2023-05-03,Standard Class,Customer_78,Consumer,Central,Texas,Technology,Phones,377.63,2.0,0.1,47.16
+ORD-10448,2024-07-13,2024-07-14,First Class,Customer_13,Consumer,East,California,Office Supplies,Art,183.75,14.0,0.0,74.8
+ORD-10449,2024-08-23,2024-08-28,First Class,Customer_40,Consumer,South,California,Technology,Copiers,69.01,12.0,0.0,22.89
+ORD-10450,2024-05-02,2024-05-08,Standard Class,Customer_222,Home Office,East,Pennsylvania,Office Supplies,Binders,32.11,13.0,0.5,-6.78
+ORD-10451,2023-08-25,2023-08-31,Second Class,Customer_64,Consumer,South,Texas,Furniture,Furnishings,436.05,10.0,0.15,43.27
+ORD-10452,2023-09-29,2023-09-30,Second Class,Customer_55,Corporate,East,Illinois,Office Supplies,Labels,215.44,5.0,0.2,55.59
+ORD-10453,2023-07-08,2023-07-10,First Class,Customer_93,Consumer,South,California,Office Supplies,Art,12.93,9.0,0.0,4.13
+ORD-10454,2024-12-04,2024-12-05,Standard Class,Customer_60,Corporate,South,Washington,Furniture,Bookcases,283.66,2.0,0.1,100.76
+ORD-10455,2024-03-22,2024-03-26,Standard Class,Customer_52,Home Office,East,California,Technology,Machines,525.21,2.0,0.0,249.88
+ORD-10456,2024-08-03,2024-08-06,Standard Class,Customer_92,Consumer,South,Ohio,Office Supplies,Labels,119.77,12.0,0.15,35.55
+ORD-10457,2023-09-04,2023-09-06,Standard Class,Customer_163,Consumer,South,Pennsylvania,Technology,Phones,243.24,6.0,0.4,-12.81
+ORD-10458,2023-03-17,2023-03-18,Standard Class,Customer_100,Home Office,South,New York,Office Supplies,Binders,,13.0,0.4,-8.44
+ORD-10459,2023-06-03,2023-06-08,Standard Class,Customer_14,Corporate,East,Florida,Furniture,Tables,118.28,10.0,0.1,33.71
+ORD-10460,2024-10-17,2024-10-19,Standard Class,Customer_285,Consumer,East,Florida,Office Supplies,Paper,37.83,2.0,0.1,16.16
+ORD-10461,2024-03-10,2024-03-12,Second Class,Customer_229,Corporate,South,California,Furniture,Chairs,3048.07,12.0,0.4,323.88
+ORD-10462,2023-03-27,2023-03-28,Standard Class,Customer_145,Corporate,South,Illinois,Office Supplies,Art,67.38,4.0,0.15,3.76
+ORD-10463,2024-11-27,2024-11-29,Standard Class,Customer_150,Consumer,East,Illinois,Technology,Machines,642.5,6.0,0.0,190.19
+ORD-10464,2023-10-12,2023-10-17,Standard Class,Customer_230,Home Office,Central,Ohio,Office Supplies,Labels,15.36,5.0,0.1,3.77
+ORD-10465,2023-08-08,2023-08-14,Standard Class,Customer_93,Consumer,South,California,Office Supplies,Paper,28.62,1.0,,7.5
+ORD-10466,2023-03-10,2023-03-12,Second Class,Customer_18,Consumer,Central,California,Furniture,Tables,376.05,6.0,0.1,20.64
+ORD-10467,2023-02-16,2023-02-22,Standard Class,Customer_286,Corporate,East,Florida,Furniture,Chairs,59.4,1.0,0.1,14.98
+ORD-10468,2023-04-04,2023-04-09,Standard Class,Customer_31,Consumer,South,Michigan,Furniture,Chairs,865.98,3.0,0.15,131.81
+ORD-10469,2024-03-28,2024-03-29,Standard Class,Customer_108,Consumer,Central,California,Office Supplies,Paper,,10.0,0.1,45.02
+ORD-10470,2023-07-23,2023-07-26,Standard Class,Customer_60,Corporate,East,New York,Furniture,Tables,413.59,5.0,,148.1
+ORD-10471,2023-08-06,2023-08-08,Standard Class,Customer_180,Home Office,Central,Pennsylvania,Office Supplies,Binders,81.74,14.0,0.1,24.32
+ORD-10472,2024-04-18,2024-04-21,First Class,Customer_264,Home Office,West,Pennsylvania,Office Supplies,Art,106.27,10.0,0.3,7.49
+ORD-10473,2024-03-07,2024-03-12,Standard Class,Customer_268,Home Office,East,New York,Office Supplies,Paper,110.18,13.0,0.15,24.51
+ORD-10474,2023-12-07,2023-12-09,Standard Class,Customer_190,Home Office,West,Michigan,Furniture,Bookcases,,5.0,0.0,92.05
+ORD-10475,2024-07-04,2024-07-10,Standard Class,Customer_187,Consumer,East,Illinois,Office Supplies,Binders,17.04,13.0,0.4,-1.59
+ORD-10476,2024-09-03,2024-09-07,Standard Class,Customer_86,Consumer,East,Florida,Technology,Machines,476.37,10.0,0.3,79.6
+ORD-10477,2023-10-16,2023-10-19,Second Class,Customer_271,Home Office,South,Pennsylvania,Office Supplies,Binders,113.45,6.0,0.0,41.61
+ORD-10478,2023-09-11,2023-09-13,Second Class,Customer_171,Consumer,West,Texas,Office Supplies,Art,56.76,12.0,0.0,18.06
+ORD-10479,2023-12-23,2023-12-26,Second Class,Customer_290,Corporate,West,Washington,Furniture,Tables,539.46,10.0,0.2,112.69
+ORD-10480,2023-01-23,2023-01-25,Standard Class,Customer_74,Corporate,West,Florida,Technology,Copiers,618.06,8.0,0.3,74.46
+ORD-10481,2024-06-05,2024-06-06,Standard Class,Customer_154,Consumer,East,Michigan,Office Supplies,Labels,92.04,5.0,0.4,13.74
+ORD-10482,2023-04-10,2023-04-16,First Class,Customer_179,Home Office,West,Texas,Office Supplies,Storage,33.11,14.0,0.3,3.08
+ORD-10483,2023-06-29,2023-07-02,Same Day,Customer_163,Consumer,West,California,Technology,Phones,676.62,11.0,0.15,87.96
+ORD-10484,2023-08-11,2023-08-15,Standard Class,Customer_102,Consumer,South,New York,Office Supplies,Art,24.75,1.0,0.1,6.21
+ORD-10485,2024-10-20,2024-10-24,Standard Class,Customer_142,Home Office,Central,California,Office Supplies,Paper,24.92,5.0,0.0,9.93
+ORD-10486,2024-03-17,2024-03-22,,Customer_76,Consumer,Central,Ohio,Office Supplies,Art,36.83,3.0,0.0,15.82
+ORD-10487,2024-08-30,2024-09-01,Standard Class,Customer_223,Consumer,West,Georgia,Office Supplies,Paper,78.71,4.0,0.1,10.3
+ORD-10488,2023-11-21,2023-11-24,Standard Class,Customer_186,Corporate,West,New York,Technology,Accessories,465.69,13.0,0.15,109.57
+ORD-10489,2024-05-30,2024-06-04,Standard Class,Customer_99,Home Office,West,Texas,Office Supplies,Binders,58.25,8.0,0.15,8.34
+ORD-10490,2023-01-16,2023-01-19,Second Class,Customer_211,Corporate,West,Washington,Office Supplies,Art,41.23,7.0,,5.14
+ORD-10491,2023-12-02,2023-12-04,Standard Class,Customer_230,Corporate,,Georgia,Furniture,Bookcases,289.1,11.0,0.0,120.75
+ORD-10492,2023-09-15,2023-09-19,Standard Class,Customer_256,Corporate,South,Ohio,Furniture,Furnishings,117.81,5.0,0.15,32.36
+ORD-10493,2024-05-11,2024-05-12,Standard Class,Customer_289,Consumer,East,Illinois,Office Supplies,Binders,19.1,2.0,0.0,5.65
+ORD-10494,2023-06-09,2023-06-13,First Class,Customer_70,Home Office,West,Ohio,Office Supplies,Art,76.2,6.0,0.1,
+ORD-10495,2024-04-19,2024-04-24,Standard Class,Customer_291,Home Office,West,Georgia,Office Supplies,Paper,6.57,11.0,0.2,0.83
+ORD-10496,2024-10-25,2024-10-31,Second Class,Customer_131,Consumer,Central,Pennsylvania,Office Supplies,Art,121.38,6.0,0.15,54.18
+ORD-10497,2024-11-20,2024-11-21,Standard Class,Customer_74,Consumer,West,Florida,Office Supplies,Storage,59.3,10.0,0.5,-4.61
+ORD-10498,2024-11-05,2024-11-10,Second Class,Customer_297,Home Office,South,Michigan,Furniture,Tables,203.77,10.0,0.0,
+ORD-10499,2024-01-15,2024-01-17,Standard Class,Customer_156,Home Office,South,California,Office Supplies,Labels,5.0,14.0,0.1,1.83
+ORD-10500,2024-06-28,2024-06-29,Standard Class,Customer_75,Home Office,West,Illinois,Furniture,Tables,146.3,11.0,0.0,67.09
+ORD-10501,2024-11-21,2024-11-26,Standard Class,Customer_6,Home Office,Central,Michigan,Technology,Machines,324.09,6.0,0.1,
+ORD-10502,2024-03-02,2024-03-04,Standard Class,Customer_253,Corporate,West,Ohio,Office Supplies,Binders,6.0,14.0,0.3,1.48
+ORD-10503,2024-09-04,2024-09-08,Standard Class,Customer_57,Corporate,,Washington,Furniture,Tables,211.29,9.0,0.15,57.39
+ORD-10504,2023-09-25,2023-10-01,Second Class,Customer_170,Corporate,Central,California,Office Supplies,Labels,108.89,11.0,,5.66
+ORD-10505,2024-07-30,2024-08-01,Standard Class,Customer_289,Consumer,South,Illinois,Office Supplies,Labels,48.66,8.0,0.0,16.24
+ORD-10506,2024-02-21,2024-02-24,Standard Class,Customer_45,Corporate,East,Michigan,Office Supplies,Binders,122.5,8.0,0.3,6.94
+ORD-10507,2023-06-17,2023-06-19,Standard Class,Customer_12,Consumer,West,California,Office Supplies,Binders,25.84,1.0,0.0,8.21
+ORD-10508,2023-02-12,2023-02-14,Second Class,Customer_231,Corporate,South,California,Office Supplies,Paper,10.41,5.0,0.3,1.86
+ORD-10509,2024-07-09,2024-07-15,Same Day,Customer_1,Consumer,West,Illinois,Furniture,Bookcases,411.58,7.0,0.0,144.08
+ORD-10510,2023-10-12,2023-10-15,Second Class,Customer_111,Consumer,East,Texas,Furniture,Furnishings,473.69,6.0,0.0,202.61
+ORD-10511,2024-02-01,2024-02-06,Standard Class,Customer_220,Consumer,Central,Florida,Furniture,Chairs,616.22,5.0,,
+ORD-10512,2023-01-12,2023-01-17,,Customer_89,Consumer,South,Texas,Office Supplies,Art,129.42,8.0,0.4,-12.67
+ORD-10513,2024-08-29,2024-08-31,First Class,Customer_52,Consumer,East,California,Technology,Copiers,363.87,3.0,0.0,77.37
+ORD-10514,2023-10-29,2023-11-01,First Class,Customer_7,Consumer,West,Georgia,Office Supplies,Storage,114.98,6.0,0.1,18.52
+ORD-10515,2023-09-10,2023-09-13,Standard Class,Customer_4,Home Office,East,New York,Furniture,Chairs,1415.57,5.0,0.3,64.92
+ORD-10516,2024-05-13,2024-05-19,Standard Class,Customer_38,Consumer,South,Georgia,Office Supplies,Art,94.85,8.0,0.1,25.68
+ORD-10517,2023-02-04,2023-02-08,Standard Class,Customer_98,Consumer,Central,Illinois,Technology,Phones,195.87,4.0,0.0,58.4
+ORD-10518,2024-12-27,2025-01-01,Standard Class,Customer_272,Corporate,West,California,Office Supplies,Art,49.08,8.0,0.1,15.52
+ORD-10519,2023-03-31,2023-04-06,Second Class,Customer_207,Corporate,Central,California,Technology,Machines,518.34,10.0,0.1,112.89
+ORD-10520,2024-08-27,2024-08-28,Standard Class,Customer_251,Consumer,Central,Washington,Office Supplies,Storage,66.22,14.0,0.3,6.66
+ORD-10521,2024-08-24,2024-08-29,Standard Class,Customer_19,Corporate,East,Florida,Furniture,Chairs,252.94,2.0,0.2,45.38
+ORD-10522,2024-02-22,2024-02-28,Second Class,Customer_28,Corporate,East,Washington,Technology,Copiers,1042.65,9.0,0.1,415.76
+ORD-10523,2023-04-25,2023-04-30,,Customer_54,Consumer,South,Illinois,Office Supplies,Storage,9.99,13.0,0.5,-1.78
+ORD-10524,2024-09-08,2024-09-12,Standard Class,Customer_144,Consumer,South,Pennsylvania,Office Supplies,Binders,51.51,9.0,0.1,22.49
+ORD-10525,2023-07-15,2023-07-16,Second Class,Customer_275,Home Office,Central,Texas,Office Supplies,Binders,67.68,14.0,0.0,20.47
+ORD-10526,2024-05-15,2024-05-19,Standard Class,Customer_81,Home Office,South,Washington,Technology,Copiers,206.34,10.0,0.0,50.1
+ORD-10527,2024-09-17,2024-09-18,First Class,Customer_282,Corporate,Central,Illinois,Office Supplies,Labels,109.89,10.0,0.1,26.66
+ORD-10528,2024-05-07,2024-05-09,First Class,Customer_76,Consumer,West,Texas,Office Supplies,Storage,63.46,13.0,0.0,38.66
+ORD-10529,2023-03-16,2023-03-22,Standard Class,Customer_190,Consumer,Central,Illinois,Office Supplies,Art,57.11,6.0,0.4,3.52
+ORD-10530,2024-02-17,2024-02-18,Second Class,Customer_77,Corporate,South,Pennsylvania,Office Supplies,Storage,78.42,4.0,0.2,17.11
+ORD-10531,2024-01-11,2024-01-15,First Class,Customer_80,Consumer,South,Florida,Office Supplies,Labels,57.58,4.0,0.0,23.81
+ORD-10532,2024-02-24,2024-02-29,Standard Class,Customer_260,Consumer,Central,Florida,Technology,Phones,666.38,13.0,0.15,102.24
+ORD-10533,2024-12-29,2024-12-30,Standard Class,Customer_164,Corporate,East,Illinois,Technology,Phones,35.56,6.0,0.2,6.97
+ORD-10534,2023-10-04,2023-10-10,First Class,Customer_208,Consumer,Central,Washington,Technology,Accessories,55.29,5.0,0.4,-0.54
+ORD-10535,2024-11-06,2024-11-07,Standard Class,Customer_11,Corporate,Central,Florida,Furniture,Tables,560.99,6.0,0.3,126.07
+ORD-10536,2024-01-29,2024-02-01,Standard Class,Customer_287,Home Office,East,New York,Office Supplies,Art,49.96,7.0,0.1,12.55
+ORD-10537,2024-04-01,2024-04-06,First Class,Customer_160,Consumer,West,Washington,Office Supplies,Labels,26.92,7.0,,3.76
+ORD-10538,2023-07-11,2023-07-17,Second Class,Customer_294,Home Office,East,Michigan,Office Supplies,Art,62.91,9.0,0.15,7.66
+ORD-10539,2024-11-19,2024-11-25,Standard Class,Customer_85,Consumer,South,Ohio,Office Supplies,Art,48.83,8.0,0.15,11.05
+ORD-10540,2023-04-09,2023-04-11,Standard Class,Customer_56,Home Office,East,Illinois,Technology,Accessories,,13.0,0.0,69.21
+ORD-10541,2024-07-01,2024-07-05,Standard Class,Customer_152,Consumer,South,Illinois,Office Supplies,Art,194.52,6.0,,49.38
+ORD-10542,2023-04-06,2023-04-08,Standard Class,Customer_219,Consumer,South,Illinois,Office Supplies,Paper,139.68,12.0,0.1,41.38
+ORD-10543,2024-10-25,2024-10-31,Standard Class,Customer_240,Corporate,Central,Pennsylvania,Furniture,Furnishings,178.69,6.0,0.0,65.88
+ORD-10544,2024-10-24,2024-10-29,Second Class,Customer_113,Consumer,Central,Illinois,Office Supplies,Binders,31.02,14.0,0.0,13.37
+ORD-10545,2023-07-09,2023-07-10,Standard Class,Customer_238,Home Office,West,Florida,Office Supplies,Labels,25.81,5.0,0.2,6.89
+ORD-10546,2023-02-06,2023-02-07,Standard Class,Customer_210,Consumer,South,Florida,Technology,Copiers,269.93,1.0,0.0,96.51
+ORD-10547,2024-01-04,2024-01-09,Standard Class,Customer_295,Consumer,Central,Ohio,Furniture,Furnishings,489.75,9.0,0.15,64.69
+ORD-10548,2024-11-25,2024-12-01,Same Day,Customer_274,Consumer,South,Ohio,Furniture,Furnishings,316.88,9.0,0.1,61.33
+ORD-10549,2024-06-08,2024-06-09,Standard Class,Customer_199,Consumer,West,Georgia,Office Supplies,Paper,35.5,9.0,,4.65
+ORD-10550,2023-10-06,2023-10-07,Standard Class,Customer_198,Consumer,South,Washington,Furniture,Bookcases,265.11,11.0,0.1,72.44
+ORD-10551,2023-08-05,2023-08-06,Standard Class,Customer_164,Corporate,West,Florida,Furniture,Bookcases,208.94,8.0,0.0,102.32
+ORD-10552,2023-09-30,2023-10-04,Second Class,Customer_66,Corporate,West,Florida,Furniture,Furnishings,137.93,13.0,0.15,35.16
+ORD-10553,2023-03-03,2023-03-07,Second Class,Customer_42,Home Office,West,Pennsylvania,Furniture,Furnishings,115.62,10.0,0.3,16.22
+ORD-10554,2024-08-18,2024-08-21,,Customer_137,Home Office,Central,Florida,Furniture,Tables,108.08,13.0,0.5,-2.69
+ORD-10555,2024-12-29,2024-12-31,Standard Class,Customer_162,Consumer,East,Florida,Office Supplies,Binders,62.0,3.0,0.1,10.05
+ORD-10556,2023-12-08,2023-12-13,Standard Class,Customer_28,Corporate,East,Georgia,Office Supplies,Binders,103.44,1.0,0.0,38.74
+ORD-10557,2024-02-01,2024-02-06,Standard Class,Customer_296,Consumer,Central,New York,Technology,Machines,425.79,11.0,0.3,-8.07
+ORD-10558,2024-11-29,2024-12-04,Standard Class,Customer_175,Corporate,South,Georgia,Office Supplies,Paper,5.73,12.0,0.0,1.88
+ORD-10559,2023-01-19,2023-01-22,Standard Class,Customer_151,Consumer,Central,New York,Office Supplies,Art,60.78,12.0,0.15,16.18
+ORD-10560,2023-06-26,2023-06-30,Standard Class,Customer_174,Home Office,South,Georgia,Furniture,Bookcases,172.25,8.0,0.1,30.66
+ORD-10561,2024-09-03,2024-09-09,Standard Class,Customer_77,Corporate,West,Florida,Office Supplies,Paper,20.23,7.0,0.0,7.98
+ORD-10562,2024-01-31,2024-02-06,Standard Class,Customer_99,Home Office,,Georgia,Office Supplies,Binders,13.14,13.0,0.0,3.02
+ORD-10563,2024-03-20,2024-03-23,Second Class,Customer_37,Home Office,East,Florida,Furniture,Tables,,5.0,0.0,51.96
+ORD-10564,2023-08-21,2023-08-27,Standard Class,Customer_264,Home Office,South,Florida,Office Supplies,Binders,,10.0,0.15,3.36
+ORD-10565,2023-03-17,2023-03-22,Standard Class,Customer_64,Home Office,Central,Ohio,Office Supplies,Paper,9.86,7.0,0.4,-0.91
+ORD-10566,2023-09-22,2023-09-24,Standard Class,Customer_262,Consumer,Central,California,Office Supplies,Storage,20.79,10.0,0.0,4.89
+ORD-10567,2024-03-30,2024-03-31,Same Day,Customer_156,Consumer,South,New York,Furniture,Chairs,428.11,4.0,0.2,52.94
+ORD-10568,2024-12-18,2024-12-22,First Class,Customer_26,Consumer,West,Michigan,Office Supplies,Storage,117.86,9.0,0.0,23.26
+ORD-10569,2024-01-19,2024-01-23,Standard Class,Customer_106,Consumer,West,Washington,Office Supplies,Storage,6.3,11.0,0.1,1.36
+ORD-10570,2024-07-17,2024-07-20,Standard Class,Customer_81,Corporate,West,Washington,Furniture,Chairs,535.76,10.0,0.0,
+ORD-10571,2024-05-20,2024-05-24,Standard Class,Customer_81,Consumer,West,Georgia,Office Supplies,Labels,43.44,14.0,0.4,-1.09
+ORD-10572,2024-01-02,2024-01-07,Standard Class,Customer_145,Corporate,South,California,Office Supplies,Art,13.73,2.0,0.2,1.04
+ORD-10573,2023-05-24,2023-05-30,Standard Class,Customer_233,Home Office,East,Pennsylvania,Technology,Machines,264.42,9.0,0.15,61.64
+ORD-10574,2023-03-10,2023-03-15,Second Class,Customer_1,Home Office,Central,Michigan,Furniture,Bookcases,411.57,9.0,0.3,37.47
+ORD-10575,2023-04-09,2023-04-12,Standard Class,Customer_234,Consumer,Central,Washington,Technology,Copiers,382.64,5.0,0.15,142.16
+ORD-10576,2024-01-31,2024-02-05,,Customer_236,Consumer,West,Texas,Office Supplies,Storage,8.41,11.0,0.4,0.45
+ORD-10577,2023-01-25,2023-01-31,Standard Class,Customer_204,Consumer,South,Illinois,Office Supplies,Storage,47.82,1.0,0.2,9.3
+ORD-10578,2024-04-13,2024-04-15,First Class,Customer_252,Consumer,East,Texas,Furniture,Chairs,490.79,7.0,0.4,30.63
+ORD-10579,2024-04-28,2024-05-01,First Class,Customer_221,Corporate,East,Pennsylvania,Office Supplies,Binders,75.09,10.0,0.1,18.72
+ORD-10580,2024-07-18,2024-07-20,Standard Class,Customer_0,Corporate,Central,Michigan,Office Supplies,Art,36.43,10.0,0.0,12.53
+ORD-10581,2023-05-31,2023-06-01,Standard Class,Customer_29,Corporate,West,Washington,Office Supplies,Art,49.42,4.0,0.1,19.41
+ORD-10582,2023-05-24,2023-05-26,Standard Class,Customer_220,Home Office,Central,Georgia,Furniture,Chairs,222.37,9.0,0.0,48.73
+ORD-10583,2024-07-22,2024-07-23,Standard Class,Customer_75,Corporate,Central,Illinois,Technology,Machines,539.46,6.0,0.15,157.76
+ORD-10584,2023-02-08,2023-02-09,Standard Class,Customer_23,Consumer,East,New York,Office Supplies,Binders,75.15,13.0,0.1,18.87
+ORD-10585,2023-04-19,2023-04-21,,Customer_239,Corporate,,Washington,Office Supplies,Paper,5.0,3.0,,0.96
+ORD-10586,2024-11-23,2024-11-26,Standard Class,Customer_198,Consumer,East,Washington,Office Supplies,Paper,84.57,6.0,0.0,25.86
+ORD-10587,2023-02-11,2023-02-17,Same Day,Customer_293,Consumer,Central,Pennsylvania,Furniture,Chairs,400.31,13.0,,145.03
+ORD-10588,2023-07-05,2023-07-10,Standard Class,Customer_173,Consumer,West,Washington,Office Supplies,Paper,29.21,10.0,0.1,7.49
+ORD-10589,2024-02-02,2024-02-07,Same Day,Customer_197,Consumer,West,Michigan,Office Supplies,Labels,101.46,6.0,0.4,-4.38
+ORD-10590,2023-08-11,2023-08-17,Standard Class,Customer_242,Consumer,South,California,Furniture,Furnishings,222.6,5.0,0.1,45.36
+ORD-10591,2024-09-25,2024-09-26,First Class,Customer_288,Consumer,South,Michigan,Office Supplies,Art,24.28,2.0,0.1,2.61
+ORD-10592,2023-05-13,2023-05-14,Standard Class,Customer_159,Corporate,South,New York,Technology,Phones,221.85,10.0,0.2,24.87
+ORD-10593,2023-06-12,2023-06-15,,Customer_20,Corporate,Central,California,Office Supplies,Storage,51.89,10.0,0.15,9.03
+ORD-10594,2023-08-03,2023-08-07,First Class,Customer_30,Consumer,Central,Washington,Office Supplies,Binders,35.14,2.0,0.0,12.72
+ORD-10595,2023-08-23,2023-08-25,Standard Class,Customer_21,Consumer,,Washington,Technology,Accessories,216.6,7.0,0.1,90.33
+ORD-10596,2024-10-19,2024-10-20,Second Class,Customer_265,Home Office,West,Illinois,Furniture,Tables,145.95,2.0,0.0,43.89
+ORD-10597,2024-08-10,2024-08-15,Second Class,Customer_103,Consumer,West,Washington,Office Supplies,Storage,77.46,12.0,0.4,-7.12
+ORD-10598,2023-01-09,2023-01-12,Standard Class,Customer_252,Home Office,West,Florida,Technology,Accessories,548.85,6.0,0.0,160.73
+ORD-10599,2023-03-15,2023-03-17,Standard Class,Customer_258,Corporate,Central,New York,Furniture,Bookcases,35.07,5.0,0.1,9.55
+ORD-10600,2024-05-06,2024-05-09,Second Class,Customer_165,Consumer,East,Ohio,Office Supplies,Labels,31.17,4.0,0.0,12.38
+ORD-10601,2023-09-10,2023-09-12,Standard Class,Customer_40,Consumer,West,Georgia,Office Supplies,Paper,83.02,7.0,0.0,33.9
+ORD-10602,2023-08-18,2023-08-20,Second Class,Customer_149,Consumer,West,Illinois,Office Supplies,Labels,47.0,8.0,0.2,
+ORD-10603,2024-06-02,2024-06-08,First Class,Customer_67,Consumer,West,Texas,Office Supplies,Labels,,4.0,0.0,37.19
+ORD-10604,2023-06-23,2023-06-24,Standard Class,Customer_94,Consumer,South,California,Technology,Accessories,801.68,1.0,0.0,262.7
+ORD-10605,2024-10-14,2024-10-17,Standard Class,Customer_86,Corporate,Central,Ohio,Technology,Accessories,796.56,1.0,0.1,
+ORD-10606,2023-06-17,2023-06-20,,Customer_173,Consumer,South,Georgia,Furniture,Tables,553.39,1.0,0.0,177.98
+ORD-10607,2023-06-19,2023-06-25,Standard Class,Customer_249,Corporate,South,Washington,Technology,Accessories,303.79,11.0,0.0,108.98
+ORD-10608,2024-01-28,2024-02-02,Standard Class,Customer_72,Corporate,East,Michigan,Office Supplies,Paper,32.99,1.0,0.2,9.03
+ORD-10609,2024-09-25,2024-09-30,Standard Class,Customer_153,Consumer,South,Florida,Office Supplies,Paper,44.09,5.0,0.2,9.49
+ORD-10610,2023-07-13,2023-07-14,Standard Class,Customer_159,Consumer,East,California,Office Supplies,Labels,35.48,4.0,0.3,-3.52
+ORD-10611,2024-05-31,2024-06-01,Standard Class,Customer_255,Consumer,South,California,Office Supplies,Storage,96.72,13.0,0.3,7.78
+ORD-10612,2023-01-29,2023-02-02,Standard Class,Customer_150,Consumer,West,California,Office Supplies,Labels,73.41,14.0,0.15,20.85
+ORD-10613,2023-06-14,2023-06-20,First Class,Customer_299,Corporate,Central,New York,Technology,Copiers,391.79,9.0,0.0,95.02
+ORD-10614,2024-02-26,2024-03-02,Standard Class,Customer_61,Consumer,South,California,Office Supplies,Art,15.33,3.0,0.2,3.53
+ORD-10615,2023-12-05,2023-12-07,Standard Class,Customer_280,Corporate,East,Illinois,Office Supplies,Labels,72.34,14.0,0.3,8.04
+ORD-10616,2024-10-09,2024-10-12,Same Day,Customer_5,Consumer,Central,Georgia,Furniture,Bookcases,623.23,7.0,0.2,164.98
+ORD-10617,2024-05-10,2024-05-11,Second Class,Customer_149,Consumer,East,Michigan,Technology,Copiers,213.01,11.0,0.1,43.59
+ORD-10618,2023-12-31,2024-01-03,,Customer_73,Corporate,West,Illinois,Technology,Phones,742.43,,0.0,319.0
+ORD-10619,2023-12-08,2023-12-11,Standard Class,Customer_200,Corporate,South,Illinois,Technology,Phones,512.41,6.0,0.3,47.54
+ORD-10620,2024-05-14,2024-05-18,First Class,Customer_298,Consumer,Central,Florida,Furniture,Furnishings,1184.99,12.0,0.2,368.87
+ORD-10621,2024-10-18,2024-10-23,,Customer_68,Consumer,West,Michigan,Furniture,Bookcases,253.11,13.0,0.5,31.1
+ORD-10622,2024-05-25,2024-05-26,Standard Class,Customer_265,Corporate,South,Florida,Office Supplies,Labels,30.05,10.0,,14.21
+ORD-10623,2023-11-23,2023-11-26,Standard Class,Customer_256,Consumer,South,California,Furniture,Tables,520.82,13.0,0.0,202.31
+ORD-10624,2023-08-05,2023-08-06,Standard Class,Customer_136,Consumer,East,California,Office Supplies,Storage,25.96,1.0,0.0,13.91
+ORD-10625,2023-10-28,2023-10-30,,Customer_202,Corporate,East,Illinois,Technology,Machines,386.3,8.0,0.2,84.32
+ORD-10626,2023-05-12,2023-05-16,Standard Class,Customer_88,Consumer,West,Illinois,Office Supplies,Art,62.82,10.0,0.0,17.42
+ORD-10627,2023-03-11,2023-03-13,Second Class,Customer_275,Corporate,East,California,Furniture,Furnishings,507.16,3.0,0.0,175.91
+ORD-10628,2023-09-09,2023-09-10,Second Class,Customer_270,Corporate,West,Pennsylvania,Office Supplies,Binders,108.34,8.0,0.5,-4.23
+ORD-10629,2024-02-19,2024-02-20,Second Class,Customer_15,Corporate,West,Georgia,Furniture,Furnishings,1001.64,12.0,0.0,416.76
+ORD-10630,2024-03-20,2024-03-25,Standard Class,Customer_13,Corporate,West,New York,Furniture,Furnishings,49.41,4.0,0.3,-0.5
+ORD-10631,2023-07-01,2023-07-04,Second Class,Customer_113,Corporate,East,Ohio,Office Supplies,Storage,164.16,8.0,0.1,28.32
+ORD-10632,2023-06-16,2023-06-19,Standard Class,Customer_67,Corporate,Central,Washington,Office Supplies,Art,13.69,11.0,0.3,0.72
+ORD-10633,2023-04-01,2023-04-03,Standard Class,Customer_4,Home Office,West,Texas,Technology,Copiers,152.56,1.0,0.15,39.32
+ORD-10634,2024-12-14,2024-12-18,Same Day,Customer_243,Consumer,Central,Michigan,Technology,Copiers,598.11,3.0,0.3,79.55
+ORD-10635,2024-06-14,2024-06-20,Standard Class,Customer_181,Consumer,South,Florida,Office Supplies,Storage,55.3,6.0,,0.07
+ORD-10636,2023-02-08,2023-02-11,Standard Class,Customer_11,Corporate,East,Michigan,Office Supplies,Paper,18.22,9.0,0.0,5.16
+ORD-10637,2023-05-06,2023-05-11,First Class,Customer_132,Corporate,East,California,Technology,Accessories,567.21,2.0,0.0,277.34
+ORD-10638,2024-03-26,2024-03-28,,Customer_57,Consumer,Central,Ohio,Office Supplies,Binders,43.22,11.0,0.0,11.42
+ORD-10639,2023-06-22,2023-06-24,Second Class,Customer_5,Home Office,South,Texas,Furniture,Furnishings,53.69,1.0,,17.14
+ORD-10640,2024-10-14,2024-10-20,Standard Class,Customer_243,Consumer,South,Illinois,Technology,Machines,834.88,10.0,0.3,116.14
+ORD-10641,2023-08-08,2023-08-13,Standard Class,Customer_18,Corporate,West,Illinois,Furniture,Chairs,142.88,3.0,0.1,51.78
+ORD-10642,2024-09-29,2024-10-03,Standard Class,Customer_268,Corporate,East,Florida,Office Supplies,Binders,18.39,4.0,0.15,3.3
+ORD-10643,2023-02-27,2023-03-04,Standard Class,Customer_176,Home Office,South,Georgia,Office Supplies,Paper,51.53,11.0,0.0,17.45
+ORD-10644,2024-10-21,2024-10-25,Standard Class,Customer_238,Consumer,South,Washington,Office Supplies,Storage,21.97,5.0,0.2,3.83
+ORD-10645,2024-04-20,2024-04-25,Second Class,Customer_240,Corporate,West,Georgia,Office Supplies,Paper,75.37,3.0,0.4,-3.63
+ORD-10646,2024-03-31,2024-04-05,Standard Class,Customer_260,Consumer,West,Ohio,Technology,Accessories,319.38,13.0,0.0,117.54
+ORD-10647,2023-12-27,2023-12-28,Same Day,Customer_19,Consumer,Central,Georgia,Furniture,Tables,370.07,10.0,0.1,142.97
+ORD-10648,2023-01-01,2023-01-03,Standard Class,Customer_9,Consumer,East,Florida,Office Supplies,Art,28.24,11.0,0.0,6.95
+ORD-10649,2024-01-22,2024-01-27,Standard Class,Customer_44,Corporate,South,Texas,Office Supplies,Art,54.5,2.0,0.15,8.85
+ORD-10650,2023-12-14,2023-12-20,Second Class,Customer_57,Consumer,Central,Texas,Office Supplies,Storage,22.86,2.0,0.1,4.54
+ORD-10651,2023-07-09,2023-07-14,First Class,Customer_229,Consumer,East,Texas,Furniture,Chairs,223.57,7.0,0.0,76.56
+ORD-10652,2024-05-19,2024-05-22,Standard Class,Customer_8,Corporate,Central,Illinois,Technology,Machines,362.46,9.0,0.1,90.31
+ORD-10653,2023-07-10,2023-07-12,Second Class,Customer_125,Corporate,East,Pennsylvania,Office Supplies,Labels,7.79,10.0,0.0,3.21
+ORD-10654,2024-05-22,2024-05-25,First Class,Customer_49,Corporate,East,Ohio,Technology,Accessories,755.97,2.0,0.1,198.59
+ORD-10655,2024-01-04,2024-01-06,Standard Class,Customer_169,Home Office,South,Washington,Technology,Phones,88.79,7.0,0.15,21.24
+ORD-10656,2024-02-13,2024-02-16,,Customer_132,Consumer,East,Ohio,Office Supplies,Storage,19.76,7.0,0.0,7.55
+ORD-10657,2023-04-27,2023-05-02,Standard Class,Customer_137,Home Office,West,Ohio,Office Supplies,Storage,23.5,11.0,0.2,4.46
+ORD-10658,2023-05-14,2023-05-19,Second Class,Customer_80,Home Office,,Georgia,Technology,Phones,546.27,7.0,0.2,123.6
+ORD-10659,2023-02-27,2023-02-28,Same Day,Customer_69,Consumer,West,New York,Furniture,Furnishings,181.32,3.0,0.1,45.37
+ORD-10660,2024-07-09,2024-07-15,Second Class,Customer_125,Consumer,Central,Ohio,Office Supplies,Paper,141.24,12.0,0.0,68.04
+ORD-10661,2024-11-15,2024-11-18,Standard Class,Customer_14,Consumer,Central,Florida,Furniture,Tables,859.89,7.0,,321.02
+ORD-10662,2024-11-02,2024-11-06,,Customer_87,Consumer,East,New York,Office Supplies,Labels,74.99,1.0,0.4,3.49
+ORD-10663,2023-06-22,2023-06-23,First Class,Customer_215,Corporate,East,Pennsylvania,Office Supplies,Paper,24.72,10.0,0.0,9.1
+ORD-10664,2023-05-29,2023-06-01,Standard Class,Customer_85,Corporate,West,Florida,Technology,Copiers,305.89,1.0,0.0,122.35
+ORD-10665,2023-03-21,2023-03-24,Standard Class,Customer_248,Corporate,West,Ohio,Technology,Accessories,387.15,5.0,0.0,101.4
+ORD-10666,2023-08-01,2023-08-02,Second Class,Customer_58,Consumer,,Michigan,Furniture,Furnishings,580.38,2.0,0.15,133.14
+ORD-10667,2023-07-22,2023-07-27,Standard Class,Customer_50,Consumer,Central,Illinois,Furniture,Furnishings,227.25,9.0,0.0,66.24
+ORD-10668,2023-08-17,2023-08-20,Standard Class,Customer_192,Home Office,West,Georgia,Office Supplies,Binders,23.43,7.0,0.1,7.05
+ORD-10669,2024-11-06,2024-11-11,Standard Class,Customer_2,Consumer,South,California,Office Supplies,Storage,16.25,4.0,0.15,2.55
+ORD-10670,2023-08-15,2023-08-16,Standard Class,Customer_298,Home Office,South,Washington,Furniture,Bookcases,604.31,4.0,0.15,113.26
+ORD-10671,2024-10-20,2024-10-25,Second Class,Customer_12,Consumer,Central,Washington,Office Supplies,Binders,75.1,2.0,0.1,8.28
+ORD-10672,2024-06-15,2024-06-17,Second Class,Customer_121,Home Office,West,Florida,Office Supplies,Storage,36.13,5.0,0.1,6.0
+ORD-10673,2024-03-16,2024-03-20,Standard Class,Customer_212,Consumer,West,Washington,Technology,Copiers,290.55,4.0,0.15,70.72
+ORD-10674,2024-02-06,2024-02-09,First Class,Customer_49,Consumer,East,New York,Office Supplies,Paper,19.19,12.0,0.0,5.38
+ORD-10675,2023-02-16,2023-02-22,First Class,Customer_192,Consumer,South,Texas,Office Supplies,Labels,175.42,13.0,0.0,76.33
+ORD-10676,2023-08-21,2023-08-25,Second Class,Customer_201,Corporate,Central,Michigan,Office Supplies,Art,55.46,1.0,,0.2
+ORD-10677,2023-11-01,2023-11-06,Standard Class,Customer_35,Home Office,West,California,Technology,Phones,81.93,12.0,0.0,31.65
+ORD-10678,2024-06-09,2024-06-12,Second Class,Customer_218,Consumer,East,Washington,Office Supplies,Labels,13.11,8.0,0.2,1.43
+ORD-10679,2023-05-23,2023-05-28,Standard Class,Customer_70,Home Office,Central,Washington,Office Supplies,Paper,34.67,3.0,0.4,0.72
+ORD-10680,2024-02-19,2024-02-21,Second Class,Customer_78,Corporate,Central,Florida,Office Supplies,Art,22.54,14.0,,
+ORD-10681,2024-05-27,2024-05-28,Second Class,Customer_202,Corporate,South,Ohio,Technology,Phones,353.65,6.0,0.1,79.13
+ORD-10682,2024-01-08,2024-01-11,Standard Class,Customer_48,Home Office,West,Illinois,Office Supplies,Art,71.26,4.0,0.15,10.5
+ORD-10683,2024-07-19,2024-07-21,First Class,Customer_154,Consumer,,Georgia,Furniture,Furnishings,119.77,9.0,0.3,18.04
+ORD-10684,2023-09-16,2023-09-18,Standard Class,Customer_157,Consumer,East,Georgia,Office Supplies,Art,36.84,7.0,0.4,0.99
+ORD-10685,2024-10-17,2024-10-20,Second Class,Customer_48,Home Office,East,Georgia,Furniture,Tables,91.21,9.0,0.2,6.51
+ORD-10686,2024-04-15,2024-04-20,Standard Class,Customer_209,Home Office,Central,Georgia,Furniture,Bookcases,852.4,10.0,0.0,284.48
+ORD-10687,2023-01-12,2023-01-18,First Class,Customer_288,Home Office,East,Pennsylvania,Technology,Machines,533.99,3.0,0.15,81.81
+ORD-10688,2023-11-26,2023-11-28,Standard Class,Customer_42,Home Office,Central,California,Office Supplies,Labels,73.65,1.0,0.1,24.75
+ORD-10689,2023-12-24,2023-12-28,Standard Class,Customer_8,Consumer,East,Ohio,Office Supplies,Paper,,5.0,0.1,24.33
+ORD-10690,2024-02-12,2024-02-14,Standard Class,Customer_219,Home Office,Central,Illinois,Office Supplies,Art,22.36,3.0,,5.25
+ORD-10691,2024-10-29,2024-11-04,Standard Class,Customer_203,Consumer,Central,Illinois,Technology,Copiers,421.69,,0.0,175.48
+ORD-10692,2024-01-08,2024-01-13,,Customer_103,Home Office,Central,Florida,Furniture,Tables,317.31,8.0,0.2,33.04
+ORD-10693,2023-01-08,2023-01-13,Second Class,Customer_41,Consumer,East,Michigan,Office Supplies,Storage,57.37,11.0,0.1,13.76
+ORD-10694,2023-05-02,2023-05-06,Standard Class,Customer_40,Corporate,Central,Washington,Technology,Accessories,194.93,13.0,0.0,68.73
+ORD-10695,2023-12-14,2023-12-16,Standard Class,Customer_250,Corporate,South,Washington,Technology,Phones,206.08,4.0,0.1,83.53
+ORD-10696,2024-11-06,2024-11-11,Standard Class,Customer_127,Consumer,Central,Ohio,Office Supplies,Storage,92.57,5.0,0.3,-0.03
+ORD-10697,2023-03-31,2023-04-06,First Class,Customer_189,Consumer,West,Pennsylvania,Office Supplies,Binders,35.14,5.0,0.2,8.32
+ORD-10698,2024-10-09,2024-10-12,Second Class,Customer_105,Home Office,West,New York,Technology,Phones,694.43,4.0,0.0,177.97
+ORD-10699,2024-11-28,2024-11-29,Second Class,Customer_110,Corporate,South,Texas,Office Supplies,Storage,26.15,4.0,0.0,6.56
+ORD-10700,2023-11-12,2023-11-13,Second Class,Customer_65,Consumer,Central,Ohio,Office Supplies,Art,25.25,4.0,0.0,8.89
+ORD-10701,2023-06-27,2023-06-28,Standard Class,Customer_133,Corporate,West,New York,Office Supplies,Labels,24.21,4.0,0.4,-0.2
+ORD-10702,2024-06-23,2024-06-25,,Customer_166,Corporate,Central,Texas,Furniture,Chairs,267.68,4.0,0.15,-3.1
+ORD-10703,2023-02-10,2023-02-14,Standard Class,Customer_59,Consumer,West,Illinois,Furniture,Tables,562.32,5.0,0.1,198.37
+ORD-10704,2024-12-04,2024-12-09,First Class,Customer_44,Consumer,East,Pennsylvania,Office Supplies,Art,27.38,2.0,0.15,1.2
+ORD-10705,2024-05-16,2024-05-19,Same Day,Customer_63,Home Office,East,Ohio,Furniture,Chairs,151.43,2.0,0.1,37.6
+ORD-10706,2023-05-25,2023-05-31,Standard Class,Customer_24,Corporate,,Georgia,Office Supplies,Storage,57.21,9.0,0.2,15.8
+ORD-10707,2023-07-20,2023-07-23,Standard Class,Customer_61,Corporate,South,Illinois,Technology,Accessories,,2.0,0.1,42.49
+ORD-10708,2024-12-24,2024-12-30,Standard Class,Customer_98,Corporate,Central,New York,Office Supplies,Storage,99.98,6.0,0.0,32.09
+ORD-10709,2024-04-05,2024-04-07,Standard Class,Customer_141,Consumer,South,Ohio,Office Supplies,Binders,47.65,2.0,0.0,11.22
+ORD-10710,2024-07-11,2024-07-12,,Customer_264,Consumer,Central,Ohio,Office Supplies,Binders,48.38,,0.1,17.58
+ORD-10711,2024-06-30,2024-07-02,Standard Class,Customer_16,Consumer,East,Florida,Office Supplies,Labels,105.64,4.0,,6.26
+ORD-10712,2023-09-10,2023-09-14,Same Day,Customer_256,Consumer,East,California,Furniture,Bookcases,746.15,,0.0,231.96
+ORD-10713,2024-01-25,2024-01-29,Standard Class,Customer_266,Corporate,West,Illinois,Office Supplies,Binders,41.62,7.0,0.3,1.28
+ORD-10714,2024-08-16,2024-08-22,First Class,Customer_15,Home Office,Central,Ohio,Office Supplies,Storage,25.83,7.0,0.2,2.91
+ORD-10715,2023-09-13,2023-09-18,First Class,Customer_268,Consumer,East,Washington,Office Supplies,Art,35.05,13.0,0.0,11.3
+ORD-10716,2024-12-09,2024-12-14,,Customer_48,Consumer,East,Washington,Technology,Copiers,188.94,6.0,0.0,70.91
+ORD-10717,2024-03-25,2024-03-31,Second Class,Customer_67,Corporate,Central,California,Office Supplies,Labels,18.76,10.0,0.0,5.72
+ORD-10718,2023-01-10,2023-01-14,Second Class,Customer_50,Home Office,West,Ohio,Office Supplies,Storage,16.39,5.0,0.2,2.21
+ORD-10719,2023-08-30,2023-09-03,,Customer_143,Corporate,West,Georgia,Office Supplies,Storage,36.55,1.0,0.0,14.67
+ORD-10720,2023-09-08,2023-09-12,Second Class,Customer_245,Home Office,West,California,Furniture,Chairs,426.15,12.0,0.1,60.26
+ORD-10721,2023-01-05,2023-01-07,Second Class,Customer_180,Corporate,West,California,Office Supplies,Storage,52.37,3.0,0.1,12.04
+ORD-10722,2023-04-29,2023-05-03,Same Day,Customer_56,Corporate,East,New York,Furniture,Tables,377.45,9.0,0.2,13.56
+ORD-10723,2024-01-09,2024-01-12,Second Class,Customer_128,Consumer,Central,New York,Furniture,Tables,336.45,14.0,0.0,120.67
+ORD-10724,2023-03-06,2023-03-07,First Class,Customer_11,Consumer,Central,Michigan,Furniture,Chairs,53.37,1.0,0.1,5.6
+ORD-10725,2023-05-26,2023-05-30,First Class,Customer_174,Consumer,East,Illinois,Office Supplies,Paper,32.71,5.0,0.1,10.83
+ORD-10726,2023-08-12,2023-08-18,Standard Class,Customer_170,Corporate,East,Texas,Office Supplies,Labels,48.43,2.0,0.1,7.5
+ORD-10727,2023-08-27,2023-08-28,Standard Class,Customer_254,Home Office,East,California,Office Supplies,Art,44.38,4.0,0.2,1.25
+ORD-10728,2023-06-26,2023-06-28,Standard Class,Customer_217,Home Office,South,New York,Office Supplies,Labels,,14.0,0.0,9.34
+ORD-10729,2023-10-09,2023-10-15,,Customer_130,Consumer,Central,Pennsylvania,Office Supplies,Art,53.52,14.0,0.2,16.43
+ORD-10730,2023-03-04,2023-03-05,First Class,Customer_203,Consumer,,Michigan,Furniture,Chairs,614.43,11.0,0.15,167.06
+ORD-10731,2023-08-05,2023-08-11,Standard Class,Customer_136,Consumer,Central,Ohio,Technology,Machines,514.81,1.0,0.15,31.51
+ORD-10732,2024-11-19,2024-11-21,,Customer_0,Consumer,West,Illinois,Office Supplies,Paper,92.31,3.0,0.15,9.93
+ORD-10733,2024-04-05,2024-04-08,Standard Class,Customer_96,Corporate,East,Ohio,Office Supplies,Art,113.68,10.0,0.1,25.96
+ORD-10734,2024-09-01,2024-09-03,Standard Class,Customer_219,Home Office,East,Michigan,Office Supplies,Binders,87.6,7.0,0.0,46.35
+ORD-10735,2023-04-15,2023-04-17,Second Class,Customer_43,Home Office,East,Florida,Furniture,Tables,622.56,10.0,0.15,87.09
+ORD-10736,2023-04-09,2023-04-15,First Class,Customer_126,Corporate,South,Washington,Office Supplies,Binders,6.17,3.0,0.1,1.14
+ORD-10737,2024-05-25,2024-05-30,Standard Class,Customer_64,Home Office,Central,Illinois,Office Supplies,Paper,55.16,4.0,0.15,18.6
+ORD-10738,2024-01-20,2024-01-24,Second Class,Customer_216,Corporate,East,Washington,Technology,Accessories,161.99,2.0,0.0,59.22
+ORD-10739,2024-02-09,2024-02-13,Second Class,Customer_69,Consumer,South,Pennsylvania,Furniture,Chairs,434.82,3.0,0.3,71.41
+ORD-10740,2024-06-01,2024-06-04,Standard Class,Customer_116,Corporate,East,Ohio,Office Supplies,Art,82.45,9.0,0.15,
+ORD-10741,2024-04-20,2024-04-23,Standard Class,Customer_143,Corporate,West,Florida,Office Supplies,Art,22.08,3.0,0.0,7.55
+ORD-10742,2024-12-09,2024-12-13,Same Day,Customer_220,Corporate,Central,Pennsylvania,Furniture,Bookcases,501.69,11.0,0.1,183.24
+ORD-10743,2024-10-06,2024-10-11,Standard Class,Customer_140,Consumer,South,Texas,Office Supplies,Paper,46.82,5.0,0.2,7.42
+ORD-10744,2024-03-12,2024-03-16,Standard Class,Customer_184,Consumer,East,Ohio,Office Supplies,Storage,48.06,2.0,0.2,12.49
+ORD-10745,2023-01-23,2023-01-28,Standard Class,Customer_52,Consumer,Central,Michigan,Technology,Machines,646.35,,0.1,188.07
+ORD-10746,2024-07-18,2024-07-21,Second Class,Customer_284,Home Office,South,Florida,Office Supplies,Binders,24.48,12.0,0.3,-0.08
+ORD-10747,2024-11-07,2024-11-08,Second Class,Customer_254,Consumer,Central,Illinois,Technology,Phones,643.02,13.0,0.0,224.22
+ORD-10748,2024-12-14,2024-12-20,Second Class,Customer_197,Corporate,Central,Florida,Technology,Phones,184.62,7.0,0.1,62.5
+ORD-10749,2024-04-02,2024-04-05,Standard Class,Customer_111,Corporate,West,Ohio,Technology,Accessories,348.44,14.0,0.3,
+ORD-10750,2023-03-24,2023-03-27,First Class,Customer_2,Consumer,Central,New York,Furniture,Chairs,142.74,7.0,,10.96
+ORD-10751,2023-05-25,2023-05-27,Standard Class,Customer_235,Corporate,South,Pennsylvania,Office Supplies,Binders,58.11,12.0,0.15,3.7
+ORD-10752,2023-03-26,2023-03-28,Standard Class,Customer_206,Home Office,Central,Florida,Office Supplies,Paper,56.71,3.0,0.3,
+ORD-10753,2023-03-19,2023-03-21,Standard Class,Customer_121,Consumer,South,Washington,Technology,Copiers,385.94,5.0,0.0,86.19
+ORD-10754,2024-04-01,2024-04-07,Standard Class,Customer_53,Home Office,Central,Pennsylvania,Office Supplies,Labels,33.04,1.0,0.3,1.29
+ORD-10755,2023-01-01,2023-01-03,First Class,Customer_5,Consumer,East,Washington,Furniture,Chairs,463.7,10.0,0.0,148.31
+ORD-10756,2023-02-20,2023-02-25,First Class,Customer_182,Consumer,West,Florida,Office Supplies,Labels,7.03,10.0,,1.63
+ORD-10757,2024-11-15,2024-11-19,Standard Class,Customer_274,Home Office,East,New York,Office Supplies,Art,41.26,10.0,0.0,17.82
+ORD-10758,2024-12-17,2024-12-18,First Class,Customer_26,Home Office,West,Pennsylvania,Technology,Phones,,11.0,0.1,1347.05
+ORD-10759,2024-03-21,2024-03-24,First Class,Customer_292,Home Office,South,Michigan,Technology,Copiers,812.64,1.0,0.0,195.32
+ORD-10760,2024-03-24,2024-03-29,Same Day,Customer_117,Corporate,West,Pennsylvania,Office Supplies,Storage,54.38,5.0,0.0,19.42
+ORD-10761,2024-05-02,2024-05-03,Standard Class,Customer_218,Home Office,Central,Illinois,Furniture,Furnishings,318.57,13.0,0.0,
+ORD-10762,2023-02-03,2023-02-08,Second Class,Customer_293,Home Office,Central,Florida,Office Supplies,Storage,18.03,10.0,0.0,9.27
+ORD-10763,2023-12-14,2023-12-19,Standard Class,Customer_4,Home Office,East,Texas,Furniture,Chairs,,9.0,0.15,34.56
+ORD-10764,2023-04-05,2023-04-08,First Class,Customer_271,Corporate,West,Ohio,Furniture,Bookcases,32.83,1.0,0.1,12.69
+ORD-10765,2023-03-13,2023-03-17,Standard Class,Customer_90,Consumer,South,California,Technology,Copiers,457.01,1.0,0.0,115.64
+ORD-10766,2024-07-04,2024-07-06,Second Class,Customer_291,Home Office,South,Georgia,Furniture,Tables,865.06,4.0,0.2,296.53
+ORD-10767,2023-06-03,2023-06-09,Standard Class,Customer_269,Consumer,Central,Texas,Office Supplies,Storage,107.5,4.0,0.3,-7.41
+ORD-10768,2023-09-07,2023-09-11,Standard Class,Customer_142,Corporate,,Washington,Technology,Machines,123.4,2.0,0.2,16.0
+ORD-10769,2024-11-04,2024-11-10,Second Class,Customer_7,Consumer,Central,Michigan,Office Supplies,Labels,20.76,9.0,0.0,8.2
+ORD-10770,2024-03-13,2024-03-16,First Class,Customer_36,Corporate,Central,Michigan,Office Supplies,Art,99.03,14.0,0.2,4.12
+ORD-10771,2023-04-28,2023-05-01,,Customer_234,Consumer,Central,Georgia,Technology,Machines,348.81,9.0,0.0,96.21
+ORD-10772,2023-11-02,2023-11-05,First Class,Customer_92,Consumer,East,New York,Furniture,Bookcases,86.44,13.0,0.0,22.74
+ORD-10773,2023-09-25,2023-09-26,Standard Class,Customer_179,Home Office,East,Illinois,Office Supplies,Paper,25.12,13.0,0.0,8.17
+ORD-10774,2023-02-23,2023-03-01,Standard Class,Customer_212,Consumer,Central,Ohio,Technology,Copiers,8.56,2.0,0.2,2.43
+ORD-10775,2023-08-24,2023-08-28,Standard Class,Customer_94,Corporate,Central,Texas,Technology,Phones,,14.0,0.0,132.7
+ORD-10776,2024-01-24,2024-01-28,Standard Class,Customer_7,Consumer,Central,California,Office Supplies,Labels,116.32,9.0,0.0,36.4
+ORD-10777,2024-02-05,2024-02-10,Second Class,Customer_293,Consumer,South,Pennsylvania,Office Supplies,Art,52.1,6.0,0.0,6.21
+ORD-10778,2024-09-15,2024-09-20,Second Class,Customer_292,Consumer,Central,Georgia,Office Supplies,Paper,60.01,8.0,0.3,7.04
+ORD-10779,2023-10-30,2023-11-04,Second Class,Customer_39,Corporate,Central,New York,Technology,Copiers,1400.91,10.0,0.15,
+ORD-10780,2023-07-26,2023-07-29,Second Class,Customer_279,Consumer,West,Michigan,Technology,Machines,114.67,13.0,0.0,24.54
+ORD-10781,2023-08-17,2023-08-21,Second Class,Customer_11,Home Office,West,California,Office Supplies,Paper,116.01,13.0,,24.32
+ORD-10782,2024-07-31,2024-08-06,Standard Class,Customer_262,Consumer,West,Michigan,Office Supplies,Art,42.62,4.0,0.1,11.74
+ORD-10783,2023-03-16,2023-03-19,Standard Class,Customer_228,Consumer,West,Florida,Furniture,Chairs,146.78,2.0,0.15,42.88
+ORD-10784,2024-03-10,2024-03-11,Second Class,Customer_277,Consumer,Central,Georgia,Furniture,Chairs,,2.0,0.0,109.56
+ORD-10785,2023-04-13,2023-04-18,Standard Class,Customer_24,Consumer,,New York,Office Supplies,Binders,29.57,9.0,0.3,0.29
+ORD-10786,2024-02-26,2024-02-29,Standard Class,Customer_21,Corporate,South,Pennsylvania,Office Supplies,Storage,31.48,1.0,0.0,9.87
+ORD-10787,2024-12-04,2024-12-07,Standard Class,Customer_281,Home Office,South,Washington,Technology,Copiers,702.57,12.0,0.15,223.24
+ORD-10788,2023-11-02,2023-11-03,Second Class,Customer_83,Corporate,,New York,Office Supplies,Art,103.32,7.0,0.0,44.79
+ORD-10789,2023-04-08,2023-04-10,Standard Class,Customer_95,Consumer,East,Ohio,Furniture,Tables,299.35,11.0,0.1,77.32
+ORD-10790,2023-12-01,2023-12-05,,Customer_37,Consumer,South,Pennsylvania,Office Supplies,Binders,164.14,14.0,0.1,56.07
+ORD-10791,2024-03-10,2024-03-16,Second Class,Customer_100,Consumer,South,Texas,Office Supplies,Storage,35.07,3.0,0.1,2.47
+ORD-10792,2024-03-22,2024-03-24,Standard Class,Customer_41,Home Office,West,New York,Office Supplies,Art,,3.0,0.0,
+ORD-10793,2023-11-04,2023-11-09,First Class,Customer_247,Consumer,West,Pennsylvania,Office Supplies,Paper,128.68,2.0,,10.36
+ORD-10794,2023-09-06,2023-09-09,Second Class,Customer_26,Corporate,Central,Texas,Technology,Machines,937.78,14.0,0.0,460.79
+ORD-10795,2023-06-15,2023-06-16,Second Class,Customer_148,Consumer,South,New York,Technology,Machines,,10.0,0.15,
+ORD-10796,2024-04-25,2024-04-26,Second Class,Customer_290,Consumer,West,California,Office Supplies,Labels,74.08,6.0,0.2,7.54
+ORD-10797,2023-12-01,2023-12-05,Standard Class,Customer_116,Consumer,West,Washington,Furniture,Chairs,351.31,13.0,0.15,91.34
+ORD-10798,2024-06-25,2024-06-27,Second Class,Customer_247,Consumer,Central,California,Office Supplies,Storage,117.98,10.0,0.2,26.28
+ORD-10799,2023-04-16,2023-04-20,Standard Class,Customer_233,Corporate,South,Ohio,Furniture,Bookcases,632.23,2.0,0.15,113.36
+ORD-10800,2024-07-16,2024-07-19,Same Day,Customer_3,Consumer,West,Pennsylvania,Office Supplies,Storage,68.0,10.0,0.1,19.7
+ORD-10801,2023-03-22,2023-03-26,First Class,Customer_66,Corporate,Central,Texas,Furniture,Furnishings,204.11,4.0,0.2,42.79
+ORD-10802,2023-05-13,2023-05-19,Second Class,Customer_141,Consumer,West,Florida,Office Supplies,Labels,11.27,10.0,,4.3
+ORD-10803,2023-05-18,2023-05-19,,Customer_25,Home Office,East,New York,Furniture,Furnishings,486.93,9.0,0.15,88.93
+ORD-10804,2023-07-03,2023-07-04,,Customer_208,Consumer,East,Florida,Office Supplies,Paper,54.27,9.0,,11.42
+ORD-10805,2024-02-05,2024-02-10,Standard Class,Customer_246,Home Office,West,New York,Technology,Phones,659.32,6.0,0.1,245.6
+ORD-10806,2023-11-26,2023-12-01,Standard Class,Customer_140,Corporate,South,Ohio,Furniture,Furnishings,572.87,13.0,0.0,144.34
+ORD-10807,2024-05-22,2024-05-25,Standard Class,Customer_201,Home Office,East,Florida,Furniture,Furnishings,19.61,4.0,0.1,3.78
+ORD-10808,2023-03-10,2023-03-16,Standard Class,Customer_163,Consumer,Central,Texas,Office Supplies,Paper,32.48,7.0,0.2,5.59
+ORD-10809,2024-06-29,2024-07-01,Standard Class,Customer_3,Corporate,West,Illinois,Technology,Copiers,274.43,14.0,0.4,-25.93
+ORD-10810,2023-02-22,2023-02-26,Same Day,Customer_165,Consumer,Central,California,Furniture,Bookcases,84.19,1.0,0.1,9.74
+ORD-10811,2024-03-25,2024-03-28,Standard Class,Customer_217,Consumer,East,Texas,Office Supplies,Paper,69.57,12.0,0.15,21.04
+ORD-10812,2023-07-24,2023-07-29,Same Day,Customer_173,Consumer,South,Michigan,Furniture,Chairs,482.52,4.0,0.3,-47.43
+ORD-10813,2023-05-06,2023-05-10,First Class,Customer_51,Consumer,Central,Georgia,Office Supplies,Binders,58.79,5.0,0.0,18.69
+ORD-10814,2023-02-12,2023-02-17,Standard Class,Customer_148,Home Office,East,Ohio,Office Supplies,Labels,12.91,8.0,0.0,5.3
+ORD-10815,2023-04-21,2023-04-25,Second Class,Customer_113,Consumer,East,Washington,Office Supplies,Art,75.27,12.0,0.2,14.4
+ORD-10816,2024-10-24,2024-10-26,Standard Class,Customer_91,Corporate,,New York,Technology,Machines,262.27,2.0,0.3,12.86
+ORD-10817,2023-07-02,2023-07-05,Second Class,Customer_254,Corporate,Central,Texas,Office Supplies,Labels,31.93,12.0,0.3,-0.25
+ORD-10818,2023-04-05,2023-04-09,Standard Class,Customer_253,Corporate,East,Florida,Technology,Phones,778.88,5.0,0.1,223.94
+ORD-10819,2024-01-09,2024-01-15,Standard Class,Customer_241,Corporate,West,Georgia,Furniture,Bookcases,845.38,6.0,0.0,229.04
+ORD-10820,2024-06-03,2024-06-04,Second Class,Customer_43,Consumer,East,Illinois,Technology,Accessories,588.0,5.0,0.1,165.39
+ORD-10821,2023-12-26,2024-01-01,,Customer_3,Corporate,West,Michigan,Office Supplies,Labels,35.29,13.0,0.0,12.75
+ORD-10822,2024-11-26,2024-12-02,Second Class,Customer_161,Consumer,South,Florida,Technology,Accessories,314.52,9.0,0.0,113.88
+ORD-10823,2023-10-08,2023-10-09,Standard Class,Customer_112,Home Office,West,California,Furniture,Chairs,514.48,10.0,,61.11
+ORD-10824,2023-07-14,2023-07-20,Standard Class,Customer_35,Corporate,South,Illinois,Furniture,Chairs,58.07,1.0,0.0,29.78
+ORD-10825,2023-07-14,2023-07-18,Standard Class,Customer_232,Home Office,South,Georgia,Office Supplies,Labels,241.96,14.0,0.3,26.29
+ORD-10826,2024-10-28,2024-11-01,Standard Class,Customer_9,Consumer,West,Pennsylvania,Office Supplies,Binders,52.55,3.0,0.1,12.49
+ORD-10827,2023-04-03,2023-04-07,Standard Class,Customer_47,Consumer,South,Pennsylvania,Office Supplies,Art,49.67,14.0,0.15,11.73
+ORD-10828,2024-11-02,2024-11-03,Standard Class,Customer_32,Consumer,West,Georgia,Office Supplies,Labels,48.97,2.0,0.0,14.11
+ORD-10829,2023-03-02,2023-03-08,Standard Class,Customer_80,Consumer,Central,Pennsylvania,Furniture,Chairs,135.48,12.0,0.0,43.23
+ORD-10830,2024-09-25,2024-09-26,First Class,Customer_1,Consumer,South,Ohio,Office Supplies,Paper,106.39,13.0,0.0,57.59
+ORD-10831,2023-02-20,2023-02-24,Standard Class,Customer_56,Corporate,West,Texas,Technology,Copiers,510.03,3.0,0.4,-360.96
+ORD-10832,2024-02-07,2024-02-13,Second Class,Customer_271,Consumer,South,New York,Office Supplies,Labels,7.55,10.0,0.2,1.24
+ORD-10833,2023-01-05,2023-01-11,Standard Class,Customer_183,Consumer,East,Texas,Furniture,Chairs,414.98,9.0,0.1,
+ORD-10834,2024-04-10,2024-04-15,First Class,Customer_48,Home Office,West,Michigan,Office Supplies,Art,91.57,13.0,0.0,24.43
+ORD-10835,2024-08-26,2024-08-31,Standard Class,Customer_22,Corporate,East,Texas,Furniture,Bookcases,466.89,14.0,0.4,11.06
+ORD-10836,2024-11-12,2024-11-14,Standard Class,Customer_272,Consumer,South,Texas,Technology,Copiers,524.01,9.0,0.0,184.93
+ORD-10837,2024-06-17,2024-06-20,Standard Class,Customer_82,Consumer,South,California,Furniture,Bookcases,700.19,10.0,0.0,296.1
+ORD-10838,2024-02-09,2024-02-14,Standard Class,Customer_259,Consumer,Central,New York,Office Supplies,Art,,2.0,0.15,10.36
+ORD-10839,2024-05-27,2024-05-28,Second Class,Customer_131,Consumer,West,Texas,Technology,Copiers,363.04,14.0,,22.53
+ORD-10840,2024-10-06,2024-10-11,Standard Class,Customer_16,Corporate,East,New York,Technology,Copiers,148.3,3.0,0.0,41.01
+ORD-10841,2023-08-21,2023-08-23,Same Day,Customer_267,Consumer,Central,Washington,Office Supplies,Storage,212.53,14.0,0.0,85.28
+ORD-10842,2024-06-07,2024-06-13,Standard Class,Customer_138,Home Office,South,Pennsylvania,Technology,Machines,131.58,4.0,0.4,5.69
+ORD-10843,2023-12-12,2023-12-14,Standard Class,Customer_15,Corporate,South,Florida,Technology,Copiers,600.07,9.0,0.0,161.01
+ORD-10844,2023-02-15,2023-02-21,Second Class,Customer_82,Corporate,Central,California,Office Supplies,Binders,33.99,3.0,0.0,11.03
+ORD-10845,2024-06-29,2024-07-05,Standard Class,Customer_90,Consumer,East,Pennsylvania,Office Supplies,Labels,49.42,13.0,0.15,4.87
+ORD-10846,2023-03-19,2023-03-22,First Class,Customer_68,Consumer,South,New York,Office Supplies,Labels,5.0,7.0,0.3,0.67
+ORD-10847,2024-12-30,2025-01-04,,Customer_283,Corporate,South,Pennsylvania,Office Supplies,Paper,82.93,12.0,,
+ORD-10848,2023-03-14,2023-03-15,Second Class,Customer_49,Consumer,West,Texas,Office Supplies,Paper,198.95,3.0,0.5,2.87
+ORD-10849,2023-09-06,2023-09-07,Standard Class,Customer_285,Consumer,Central,Florida,Office Supplies,Labels,81.34,7.0,0.15,16.0
+ORD-10850,2023-02-16,2023-02-20,First Class,Customer_205,Consumer,South,Texas,Furniture,Chairs,7.09,7.0,0.0,2.74
+ORD-10851,2023-05-01,2023-05-07,Second Class,Customer_19,Consumer,East,Michigan,Furniture,Furnishings,398.24,9.0,0.5,-8.36
+ORD-10852,2023-08-02,2023-08-03,Standard Class,Customer_55,Corporate,West,Texas,Furniture,Bookcases,77.51,2.0,0.1,
+ORD-10853,2023-08-27,2023-08-30,Standard Class,Customer_44,Consumer,Central,Florida,Office Supplies,Storage,16.79,13.0,0.0,4.66
+ORD-10854,2023-02-25,2023-03-03,Standard Class,Customer_87,Corporate,East,Illinois,Furniture,Tables,464.68,6.0,0.15,73.03
+ORD-10855,2023-12-16,2023-12-19,Same Day,Customer_222,Consumer,South,Washington,Office Supplies,Binders,68.76,9.0,0.0,22.15
+ORD-10856,2023-04-17,2023-04-18,Standard Class,Customer_122,Corporate,Central,New York,Office Supplies,Storage,86.9,12.0,0.0,24.36
+ORD-10857,2023-02-17,2023-02-18,Standard Class,Customer_127,Home Office,Central,Washington,Technology,Machines,518.82,12.0,0.0,153.37
+ORD-10858,2024-07-26,2024-07-30,Standard Class,Customer_119,Home Office,East,Michigan,Furniture,Tables,297.66,2.0,0.1,98.37
+ORD-10859,2023-12-03,2023-12-04,Standard Class,Customer_162,Consumer,Central,Washington,Office Supplies,Art,,2.0,0.3,6.08
+ORD-10860,2023-01-26,2023-02-01,Second Class,Customer_177,Consumer,East,Pennsylvania,Office Supplies,Labels,10.57,13.0,0.15,
+ORD-10861,2023-09-14,2023-09-20,Same Day,Customer_19,Consumer,South,Georgia,Office Supplies,Labels,101.19,14.0,0.5,-14.58
+ORD-10862,2023-01-08,2023-01-14,Standard Class,Customer_14,Corporate,West,California,Furniture,Furnishings,80.37,5.0,0.0,24.17
+ORD-10863,2024-09-16,2024-09-20,First Class,Customer_132,Corporate,East,Florida,Technology,Phones,499.17,10.0,0.0,
+ORD-10864,2023-09-10,2023-09-14,Standard Class,Customer_214,Corporate,West,California,Technology,Copiers,932.87,10.0,0.0,335.91
+ORD-10865,2024-11-22,2024-11-23,Standard Class,Customer_71,Consumer,Central,Florida,Office Supplies,Storage,18.42,12.0,0.0,7.59
+ORD-10866,2024-12-19,2024-12-21,Standard Class,Customer_185,Corporate,East,New York,Office Supplies,Paper,89.14,10.0,0.0,40.48
+ORD-10867,2023-10-30,2023-11-01,Second Class,Customer_59,Consumer,South,Washington,Technology,Accessories,610.51,8.0,0.2,70.02
+ORD-10868,2024-09-30,2024-10-04,Same Day,Customer_128,Corporate,East,New York,Office Supplies,Storage,56.26,11.0,0.3,8.38
+ORD-10869,2023-02-25,2023-02-26,First Class,Customer_238,Consumer,East,Texas,Office Supplies,Paper,7.29,9.0,0.5,-1.36
+ORD-10870,2024-12-26,2024-12-28,Standard Class,Customer_294,Corporate,East,Texas,Technology,Machines,,2.0,0.0,261.72
+ORD-10871,2024-06-09,2024-06-10,Standard Class,Customer_249,Consumer,West,California,Office Supplies,Binders,57.97,5.0,,0.99
+ORD-10872,2024-04-18,2024-04-19,Standard Class,Customer_211,Consumer,West,Ohio,Office Supplies,Binders,93.47,14.0,0.0,37.88
+ORD-10873,2023-01-28,2023-01-29,First Class,Customer_89,Corporate,Central,Ohio,Office Supplies,Storage,18.84,7.0,0.0,4.96
+ORD-10874,2023-03-19,2023-03-24,First Class,Customer_114,Consumer,Central,Georgia,Technology,Copiers,900.98,6.0,0.3,61.12
+ORD-10875,2023-08-04,2023-08-10,First Class,Customer_241,Corporate,Central,Ohio,Office Supplies,Paper,55.27,6.0,0.15,18.72
+ORD-10876,2024-01-21,2024-01-22,Standard Class,Customer_130,Corporate,Central,Michigan,Office Supplies,Binders,47.04,7.0,0.0,13.39
+ORD-10877,2023-12-31,2024-01-05,Standard Class,Customer_0,Corporate,East,Pennsylvania,Office Supplies,Binders,124.11,3.0,0.1,54.15
+ORD-10878,2024-10-27,2024-10-31,Standard Class,Customer_110,Consumer,West,Pennsylvania,Office Supplies,Art,101.63,13.0,0.0,35.53
+ORD-10879,2024-06-09,2024-06-11,Standard Class,Customer_178,Consumer,West,Texas,Office Supplies,Art,100.32,3.0,0.2,24.88
+ORD-10880,2024-11-29,2024-12-05,Standard Class,Customer_278,Corporate,West,Ohio,Office Supplies,Binders,24.15,10.0,0.1,7.06
+ORD-10881,2023-11-08,2023-11-10,Standard Class,Customer_35,Consumer,West,Georgia,Office Supplies,Storage,76.17,9.0,0.5,-4.83
+ORD-10882,2023-01-07,2023-01-13,Standard Class,Customer_227,Corporate,Central,Florida,Furniture,Chairs,60.05,14.0,0.0,14.17
+ORD-10883,2023-01-03,2023-01-05,First Class,Customer_143,Consumer,East,Texas,Technology,Phones,213.51,8.0,0.1,47.44
+ORD-10884,2024-09-14,2024-09-20,First Class,Customer_46,Consumer,West,New York,Furniture,Tables,177.46,5.0,0.1,63.12
+ORD-10885,2023-12-29,2023-12-31,Standard Class,Customer_225,Consumer,South,Ohio,Technology,Phones,643.27,6.0,0.1,149.53
+ORD-10886,2024-05-22,2024-05-24,Standard Class,Customer_188,Consumer,East,Texas,Furniture,Chairs,642.03,11.0,0.0,231.84
+ORD-10887,2023-10-01,2023-10-03,Standard Class,Customer_248,Consumer,South,Ohio,Office Supplies,Binders,50.85,12.0,,2.35
+ORD-10888,2024-05-20,2024-05-22,Second Class,Customer_109,Corporate,East,Michigan,Furniture,Bookcases,239.61,10.0,0.3,8.86
+ORD-10889,2023-01-15,2023-01-19,First Class,Customer_36,Corporate,East,Georgia,Technology,Copiers,685.09,1.0,0.4,54.7
+ORD-10890,2023-07-11,2023-07-12,First Class,Customer_158,Consumer,East,California,Office Supplies,Binders,56.19,10.0,0.2,3.79
+ORD-10891,2024-09-22,2024-09-25,Second Class,Customer_57,Home Office,South,Illinois,Furniture,Chairs,,12.0,0.3,44.65
+ORD-10892,2024-04-29,2024-05-04,,Customer_193,Consumer,West,Georgia,Office Supplies,Paper,30.24,1.0,0.15,6.93
+ORD-10893,2023-01-28,2023-01-31,Standard Class,Customer_104,Home Office,West,Ohio,Furniture,Furnishings,331.54,4.0,0.3,20.26
+ORD-10894,2024-12-14,2024-12-17,Standard Class,Customer_111,Corporate,South,New York,Furniture,Bookcases,,2.0,0.0,38.0
+ORD-10895,2023-02-08,2023-02-14,Standard Class,Customer_213,Corporate,West,New York,Technology,Copiers,243.22,11.0,0.1,53.68
+ORD-10896,2023-09-30,2023-10-01,First Class,Customer_258,Consumer,Central,California,Office Supplies,Storage,133.37,7.0,0.0,42.39
+ORD-10897,2023-08-19,2023-08-25,Standard Class,Customer_34,Consumer,West,Washington,Technology,Accessories,338.41,2.0,0.1,-1110.62
+ORD-10898,2023-03-27,2023-03-28,Standard Class,Customer_41,Consumer,Central,New York,Office Supplies,Binders,83.27,10.0,0.0,26.27
+ORD-10899,2024-04-18,2024-04-19,Standard Class,Customer_12,Corporate,Central,Texas,Office Supplies,Paper,32.0,2.0,0.4,4.31
+ORD-10900,2023-05-06,2023-05-08,Same Day,Customer_281,Consumer,Central,New York,Furniture,Bookcases,756.5,5.0,0.0,282.9
+ORD-10901,2024-06-20,2024-06-24,Standard Class,Customer_151,Corporate,South,Illinois,Office Supplies,Labels,43.79,4.0,0.0,13.31
+ORD-10902,2023-05-25,2023-05-27,Second Class,Customer_235,Consumer,West,California,Technology,Accessories,987.42,8.0,0.1,333.62
+ORD-10903,2024-06-08,2024-06-12,Standard Class,Customer_276,Home Office,West,Texas,Technology,Phones,189.41,4.0,0.0,75.75
+ORD-10904,2023-07-31,2023-08-06,Standard Class,Customer_83,Consumer,South,Ohio,Office Supplies,Binders,35.54,14.0,0.0,7.74
+ORD-10905,2023-01-25,2023-01-29,Standard Class,Customer_79,Consumer,South,Georgia,Office Supplies,Paper,40.6,12.0,0.0,10.85
+ORD-10906,2024-08-02,2024-08-08,Second Class,Customer_263,Consumer,West,California,Office Supplies,Storage,36.48,6.0,0.1,9.15
+ORD-10907,2024-01-29,2024-02-01,Standard Class,Customer_6,Consumer,South,Illinois,Technology,Phones,704.78,5.0,0.1,93.96
+ORD-10908,2023-03-08,2023-03-11,First Class,Customer_187,Consumer,South,Pennsylvania,Office Supplies,Labels,93.13,11.0,0.2,31.41
+ORD-10909,2023-08-21,2023-08-25,Standard Class,Customer_84,Corporate,Central,Illinois,Office Supplies,Binders,61.28,14.0,0.2,
+ORD-10910,2023-04-19,2023-04-23,Standard Class,Customer_123,Consumer,South,Florida,Technology,Phones,620.15,2.0,,160.58
+ORD-10911,2023-05-26,2023-06-01,,Customer_18,Consumer,Central,Florida,Furniture,Tables,1457.62,11.0,,470.2
+ORD-10912,2023-04-21,2023-04-23,Standard Class,Customer_171,Home Office,East,Pennsylvania,Furniture,Tables,407.72,13.0,0.0,123.14
+ORD-10913,2023-08-16,2023-08-22,Second Class,Customer_106,Consumer,Central,Michigan,Office Supplies,Art,91.27,12.0,0.2,1.18
+ORD-10914,2023-04-21,2023-04-23,First Class,Customer_78,Home Office,Central,New York,Technology,Copiers,197.1,,0.0,41.66
+ORD-10915,2024-04-14,2024-04-17,Standard Class,Customer_62,Home Office,South,Georgia,Office Supplies,Labels,32.11,8.0,0.0,16.12
+ORD-10916,2023-02-03,2023-02-04,Second Class,Customer_155,Consumer,West,Washington,Office Supplies,Storage,15.78,2.0,0.2,4.67
+ORD-10917,2024-09-14,2024-09-18,Standard Class,Customer_83,Consumer,East,Washington,Office Supplies,Binders,57.06,9.0,0.1,12.21
+ORD-10918,2024-01-04,2024-01-06,Standard Class,Customer_2,Consumer,East,Georgia,Office Supplies,Binders,53.29,9.0,0.0,22.52
+ORD-10919,2024-08-17,2024-08-23,Standard Class,Customer_258,Corporate,East,Illinois,Office Supplies,Art,11.21,3.0,0.0,4.38
+ORD-10920,2024-07-07,2024-07-10,First Class,Customer_61,Corporate,West,Pennsylvania,Office Supplies,Labels,59.86,4.0,,2.39
+ORD-10921,2024-02-29,2024-03-02,Standard Class,Customer_108,Corporate,East,Pennsylvania,Office Supplies,Binders,67.13,8.0,0.3,-2.28
+ORD-10922,2024-09-04,2024-09-10,Second Class,Customer_208,Corporate,East,Ohio,Office Supplies,Binders,103.74,9.0,0.2,2.63
+ORD-10923,2024-06-01,2024-06-05,Same Day,Customer_130,Consumer,West,California,Office Supplies,Storage,38.54,3.0,0.1,13.67
+ORD-10924,2024-11-22,2024-11-26,Standard Class,Customer_95,Home Office,East,Texas,Office Supplies,Paper,86.37,5.0,0.1,8.78
+ORD-10925,2023-10-09,2023-10-14,Standard Class,Customer_255,Corporate,,Florida,Technology,Machines,589.76,11.0,0.5,-65.97
+ORD-10926,2023-11-16,2023-11-17,Standard Class,Customer_281,Corporate,South,Washington,Furniture,Furnishings,453.25,8.0,0.4,-17.87
+ORD-10927,2024-03-18,2024-03-23,Standard Class,Customer_10,Home Office,Central,New York,Technology,Copiers,176.31,3.0,0.0,55.22
+ORD-10928,2023-11-11,2023-11-14,Standard Class,Customer_179,Corporate,,Texas,Technology,Copiers,351.36,,0.2,68.57
+ORD-10929,2024-01-12,2024-01-14,Second Class,Customer_58,Consumer,Central,Illinois,Office Supplies,Art,113.14,11.0,0.0,
+ORD-10930,2023-10-16,2023-10-19,Same Day,Customer_93,Consumer,South,Ohio,Office Supplies,Paper,94.16,8.0,0.0,35.94
+ORD-10931,2024-03-12,2024-03-18,Same Day,Customer_223,Consumer,South,Texas,Office Supplies,Binders,12.02,10.0,0.15,2.72
+ORD-10932,2024-10-23,2024-10-27,First Class,Customer_116,Consumer,,Ohio,Furniture,Bookcases,469.17,11.0,0.1,200.76
+ORD-10933,2023-10-04,2023-10-09,First Class,Customer_244,Home Office,Central,Washington,Office Supplies,Storage,9.83,,0.4,-1.19
+ORD-10934,2024-12-10,2024-12-15,Standard Class,Customer_195,Consumer,Central,Washington,Furniture,Furnishings,224.09,3.0,0.0,78.96
+ORD-10935,2024-08-04,2024-08-09,Second Class,Customer_56,Corporate,Central,New York,Office Supplies,Storage,67.07,2.0,0.1,19.75
+ORD-10936,2024-05-17,2024-05-20,First Class,Customer_189,Consumer,Central,Pennsylvania,Technology,Copiers,516.88,10.0,0.3,30.75
+ORD-10937,2024-09-15,2024-09-19,Standard Class,Customer_101,Consumer,Central,Illinois,Office Supplies,Paper,11.32,13.0,0.3,-0.31
+ORD-10938,2024-05-30,2024-06-01,Same Day,Customer_127,Home Office,Central,Michigan,Technology,Phones,169.73,7.0,0.0,76.47
+ORD-10939,2023-12-16,2023-12-22,Standard Class,Customer_20,Home Office,South,Georgia,Office Supplies,Paper,149.33,12.0,0.1,42.85
+ORD-10940,2024-03-21,2024-03-23,,Customer_167,Corporate,West,New York,Technology,Phones,119.4,9.0,0.15,13.57
+ORD-10941,2023-12-16,2023-12-19,Second Class,Customer_237,Consumer,West,Washington,Office Supplies,Art,29.41,1.0,0.0,11.33
+ORD-10942,2024-08-29,2024-09-04,Same Day,Customer_250,Consumer,Central,California,Furniture,Furnishings,5.0,3.0,0.4,0.63
+ORD-10943,2024-10-25,2024-10-30,Standard Class,Customer_290,Consumer,West,Pennsylvania,Office Supplies,Storage,168.59,5.0,0.3,13.0
+ORD-10944,2023-05-17,2023-05-18,Second Class,Customer_235,Consumer,West,Georgia,Furniture,Chairs,110.05,3.0,0.0,38.5
+ORD-10945,2023-08-31,2023-09-03,Standard Class,Customer_69,Consumer,South,California,Office Supplies,Storage,,1.0,0.0,11.16
+ORD-10946,2024-06-26,2024-06-29,,Customer_158,Home Office,Central,New York,Technology,Accessories,73.53,7.0,0.0,20.03
+ORD-10947,2023-02-09,2023-02-13,First Class,Customer_287,Corporate,Central,Texas,Furniture,Chairs,262.73,7.0,0.3,57.33
+ORD-10948,2023-08-17,2023-08-19,Second Class,Customer_46,Home Office,West,Michigan,Office Supplies,Binders,36.91,10.0,0.0,15.79
+ORD-10949,2024-07-01,2024-07-04,Second Class,Customer_54,Corporate,Central,Ohio,Office Supplies,Binders,129.59,12.0,0.1,24.11
+ORD-10950,2023-08-11,2023-08-14,Standard Class,Customer_295,Consumer,Central,Georgia,Technology,Copiers,908.34,8.0,0.1,187.61
+ORD-10951,2023-01-06,2023-01-11,Standard Class,Customer_96,Home Office,Central,Georgia,Office Supplies,Storage,179.82,5.0,0.15,31.11
+ORD-10952,2023-11-18,2023-11-23,Second Class,Customer_28,Consumer,Central,New York,Office Supplies,Labels,75.55,,0.0,15.36
+ORD-10953,2024-04-12,2024-04-18,Standard Class,Customer_188,Home Office,West,Georgia,Office Supplies,Binders,18.1,12.0,0.0,6.71
+ORD-10954,2023-03-16,2023-03-17,Standard Class,Customer_88,Consumer,East,Ohio,Office Supplies,Labels,48.74,5.0,0.4,-3.91
+ORD-10955,2023-01-04,2023-01-08,Same Day,Customer_24,Consumer,West,Ohio,Office Supplies,Storage,,5.0,0.3,2.39
+ORD-10956,2024-10-07,2024-10-08,Standard Class,Customer_49,Home Office,South,California,Technology,Copiers,94.86,1.0,0.2,6.33
+ORD-10957,2023-04-28,2023-05-04,,Customer_159,Corporate,East,Texas,Office Supplies,Labels,156.83,10.0,0.0,66.47
+ORD-10958,2024-08-28,2024-09-02,Standard Class,Customer_138,Home Office,East,Ohio,Technology,Copiers,657.41,5.0,0.0,268.89
+ORD-10959,2024-05-18,2024-05-20,Standard Class,Customer_186,Home Office,East,Michigan,Furniture,Furnishings,460.29,6.0,0.15,72.97
+ORD-10960,2024-07-27,2024-08-01,Standard Class,Customer_85,Consumer,West,Georgia,Office Supplies,Storage,9.8,13.0,0.0,3.71
+ORD-10961,2024-03-16,2024-03-20,Standard Class,Customer_81,Consumer,South,California,Technology,Machines,465.95,12.0,0.3,40.37
+ORD-10962,2023-07-13,2023-07-18,Standard Class,Customer_278,Consumer,West,Washington,Furniture,Furnishings,217.53,1.0,0.15,72.57
+ORD-10963,2024-12-15,2024-12-19,Standard Class,Customer_69,Corporate,South,California,Technology,Copiers,420.35,11.0,0.0,112.4
+ORD-10964,2024-01-27,2024-01-31,Standard Class,Customer_21,Corporate,West,Michigan,Office Supplies,Storage,6.0,7.0,0.3,0.41
+ORD-10965,2023-01-26,2023-01-30,Standard Class,Customer_200,Consumer,West,Pennsylvania,Office Supplies,Storage,74.75,1.0,0.4,-4.58
+ORD-10966,2024-03-10,2024-03-16,Standard Class,Customer_68,Corporate,West,California,Technology,Accessories,32.7,11.0,0.0,11.56
+ORD-10967,2023-06-22,2023-06-26,Standard Class,Customer_42,Corporate,East,Washington,Office Supplies,Binders,44.39,2.0,0.1,13.44
+ORD-10968,2023-10-27,2023-10-31,Standard Class,Customer_117,Consumer,West,Ohio,Furniture,Furnishings,370.74,2.0,,110.43
+ORD-10969,2024-10-06,2024-10-08,Same Day,Customer_23,Home Office,South,Florida,Office Supplies,Art,87.32,5.0,0.1,20.16
+ORD-10970,2023-11-22,2023-11-23,Second Class,Customer_97,Corporate,South,Florida,Office Supplies,Art,67.69,14.0,0.0,-264.17
+ORD-10971,2024-02-14,2024-02-17,Second Class,Customer_203,Home Office,,Florida,Technology,Machines,587.48,10.0,0.15,190.1
+ORD-10972,2023-04-28,2023-04-29,Standard Class,Customer_66,Consumer,East,Pennsylvania,Office Supplies,Paper,66.17,13.0,0.4,1.95
+ORD-10973,2024-12-24,2024-12-28,First Class,Customer_142,Consumer,West,Washington,Office Supplies,Storage,,7.0,0.1,5.89
+ORD-10974,2023-08-13,2023-08-15,Second Class,Customer_50,Consumer,West,Michigan,Office Supplies,Binders,9.59,1.0,0.0,3.18
+ORD-10975,2024-06-15,2024-06-20,First Class,Customer_285,Consumer,Central,New York,Office Supplies,Labels,111.98,10.0,0.15,28.98
+ORD-10976,2023-04-23,2023-04-25,Standard Class,Customer_85,Home Office,East,Florida,Office Supplies,Storage,138.43,1.0,0.0,50.97
+ORD-10977,2023-05-20,2023-05-24,Same Day,Customer_234,Consumer,,New York,Office Supplies,Paper,42.78,1.0,0.3,-2.22
+ORD-10978,2024-07-12,2024-07-14,First Class,Customer_175,Corporate,South,Pennsylvania,Technology,Copiers,211.88,6.0,,
+ORD-10979,2023-01-01,2023-01-03,First Class,Customer_135,Corporate,West,New York,Office Supplies,Storage,5.84,2.0,0.0,1.64
+ORD-10980,2023-03-31,2023-04-04,Standard Class,Customer_17,Consumer,,Georgia,Office Supplies,Storage,32.98,1.0,0.0,7.8
+ORD-10981,2024-10-15,2024-10-21,Standard Class,Customer_51,Consumer,West,Pennsylvania,Furniture,Tables,149.78,6.0,0.2,5.47
+ORD-10982,2023-11-16,2023-11-18,Standard Class,Customer_247,Corporate,West,New York,Furniture,Furnishings,87.78,14.0,0.0,29.2
+ORD-10983,2024-07-03,2024-07-06,Standard Class,Customer_66,Corporate,,California,Furniture,Furnishings,686.4,2.0,0.2,60.87
+ORD-10984,2023-05-19,2023-05-22,First Class,Customer_133,Consumer,East,Florida,Furniture,Furnishings,465.66,6.0,0.0,76.32
+ORD-10985,2024-05-25,2024-05-27,,Customer_37,Home Office,West,Texas,Office Supplies,Art,80.99,10.0,0.0,26.02
+ORD-10986,2023-09-16,2023-09-22,,Customer_76,Consumer,West,Illinois,Office Supplies,Binders,45.04,8.0,0.1,9.94
+ORD-10987,2024-11-03,2024-11-08,Standard Class,Customer_283,Consumer,West,Pennsylvania,Office Supplies,Binders,21.07,2.0,0.4,-0.46
+ORD-10988,2024-11-20,2024-11-24,Standard Class,Customer_221,Corporate,Central,Ohio,Technology,Copiers,421.75,11.0,0.4,-25.44
+ORD-10989,2023-01-10,2023-01-13,Standard Class,Customer_91,Consumer,West,Illinois,Technology,Accessories,394.09,9.0,0.0,
+ORD-10990,2023-09-18,2023-09-23,First Class,Customer_58,Home Office,East,Michigan,Technology,Phones,69.28,8.0,0.1,20.88
+ORD-10991,2024-10-11,2024-10-13,Second Class,Customer_139,Consumer,East,Pennsylvania,Office Supplies,Storage,81.17,12.0,0.0,25.16
+ORD-10992,2023-06-21,2023-06-26,Standard Class,Customer_171,Consumer,South,Pennsylvania,Office Supplies,Labels,49.26,10.0,,12.56
+ORD-10993,2023-01-13,2023-01-14,Standard Class,Customer_46,Consumer,East,New York,Office Supplies,Storage,52.62,1.0,0.1,19.64
+ORD-10994,2023-06-17,2023-06-20,Standard Class,Customer_211,Corporate,South,Pennsylvania,Furniture,Furnishings,170.91,7.0,0.3,26.75
+ORD-10995,2024-10-03,2024-10-05,Standard Class,Customer_88,Corporate,East,Florida,Office Supplies,Binders,38.69,14.0,0.4,-4.71
+ORD-10996,2024-08-18,2024-08-22,Second Class,Customer_168,Corporate,South,Washington,Technology,Accessories,612.41,13.0,,111.49
+ORD-10997,2023-11-17,2023-11-23,Second Class,Customer_244,Consumer,West,Washington,Technology,Phones,1082.0,10.0,0.1,213.64
+ORD-10998,2023-11-15,2023-11-17,Second Class,Customer_36,Consumer,Central,Michigan,Furniture,Chairs,864.33,6.0,0.3,38.74
+ORD-10999,2024-09-04,2024-09-08,Second Class,Customer_280,Home Office,Central,Georgia,Office Supplies,Binders,36.51,14.0,0.2,4.47
