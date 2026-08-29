@@ -15,8 +15,8 @@ sales$Order_Date <- as.Date(sales$Order_Date)
 # =============================================================
 
 # ---- 1.1 Normality tests (Shapiro-Wilk) ----
-shapiro.test(sample(sales$Sales_capped, 5000))
-shapiro.test(sample(sales$Profit_capped, 5000))
+shapiro.test(sample(sales$Sales_capped, 5000, nrow(sales))))
+shapiro.test(sample(sales$Profit_capped, 5000, nrow(sales))))
 
 # ---- 1.2 Correlation test: Sales vs Profit ----
 cor.test(sales$Sales_capped, sales$Profit_capped, method = "pearson")
