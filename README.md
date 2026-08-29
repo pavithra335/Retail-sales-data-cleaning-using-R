@@ -1,121 +1,113 @@
-# Retail Sales Analysis in R
+# Retail Sales Data Cleaning & Preliminary Analysis in R
 
-### Data Cleaning, EDA, Statistical Analysis & Predictive Modeling
-
-An end-to-end retail sales analytics project completed over **four weeks** using **R**. The project transforms a raw 1,000-record retail dataset into an analysis-ready dataset, communicates insights through visualizations, validates business hypotheses using statistical tests, and builds a predictive regression model for profit.
-
----
+A complete data cleaning and preliminary exploratory data analysis (EDA) project performed in **R** using a retail sales dataset. This project transforms raw, imperfect data into an analysis-ready dataset through missing value treatment, outlier handling, feature engineering, and descriptive analysis.
 
 ## Project Overview
 
-This repository follows a complete data analytics workflow:
-
-| Week       | Focus                     | Outcome                                                                   |
-| ---------- | ------------------------- | ------------------------------------------------------------------------- |
-| **Week 1** | Data Cleaning             | Missing value imputation, IQR outlier treatment, normalization & encoding |
-| **Week 2** | Exploratory Data Analysis | Business visualizations and insight communication                         |
-| **Week 3** | Statistical Analysis      | Hypothesis testing and multiple linear regression                         |
-| **Week 4** | Final Report              | Consolidated analysis with conclusions and recommendations                |
-
----
+The objective of this project is to prepare a retail sales dataset for future analytics and machine learning by identifying data quality issues and applying appropriate preprocessing techniques.
 
 ## Dataset
 
-* **1,000 retail order records**
-* **Time period:** January 2023 – December 2024
-* **Target variable:** Profit
-* **Features:** Sales, Quantity, Discount, Region, Category, Segment, Ship Mode and other order-level attributes
+* **Records:** 1,000 retail orders
+* **Time Period:** January 2023 – December 2024
+* **Programming Language:** R
 
----
+### Numerical Variables
 
-## Key Techniques Used
+* Sales
+* Quantity
+* Discount
+* Profit
 
-### Week 1 — Data Cleaning
+### Categorical Variables
 
-* Median & mode imputation
-* IQR-based outlier capping
+* Region
+* Segment
+* Category
+* Ship Mode
+* State
+* Sub-Category
+
+## Data Cleaning Workflow
+
+### 1. Data Inspection
+
+* Examined data structure using `str()`
+* Generated descriptive statistics with `summary()`
+* Assessed missing values and variable types
+
+### 2. Missing Value Treatment
+
+* Median imputation for numerical variables
+* Mode imputation for categorical variables
+* Resolved all missing values while preserving every record
+
+### 3. Outlier Detection
+
+* Identified outliers using the **Interquartile Range (IQR)** method
+* Applied **Winsorization (capping)** instead of removing observations
+* Retained the complete dataset of 1,000 records
+
+### 4. Feature Engineering
+
 * Min–Max normalization
-* Label & one-hot encoding
+* Label encoding
+* One-hot encoding for categorical variables
 
-### Week 2 — Data Visualization
+## Exploratory Analysis
 
-* Monthly Sales & Profit trend
+The project includes:
+
+* Descriptive statistics
+* Missing value assessment
+* Sales distribution analysis
+* Profit by product category
 * Regional sales comparison
-* Category vs Segment profitability
-* Sales distribution histogram
-* Correlation heatmap
-* Scatter & boxplot analysis
+* Correlation matrix
+* Sales vs Profit relationship
 
-### Week 3 — Statistical Modeling
+## Key Findings
 
-* Shapiro–Wilk normality test
-* Pearson correlation
-* Welch t-test
-* One-way ANOVA + Tukey HSD
-* Chi-square independence test
-* Multiple Linear Regression
-* 5-Fold Cross Validation
-* VIF & residual diagnostics
+| Finding                       |            Result |
+| ----------------------------- | ----------------: |
+| Missing values after cleaning |             **0** |
+| Records retained              | **1,000 / 1,000** |
+| Sales–Profit correlation      |         **0.747** |
+| Discount–Profit correlation   |        **-0.354** |
 
-### Week 4 — Final Analysis
+## Technologies Used
 
-* Business interpretation
-* Model evaluation
-* Limitations & future improvements
-
----
+* **R**
+* tidyverse
+* ggplot2
+* corrplot
+* fastDummies
 
 ## Repository Structure
 
 ```text
-Retail-Sales-Analysis/
-│
-├── Week1_Data_Cleaning/
-│   ├── retail_sales_raw.csv
-│   ├── retail_sales_cleaned.csv
-│   ├── report.R
-│   └── Retail_Sales_Data_Cleaning_Report.pdf
-│
-├── Week2_Data_Visualization/
-│   ├── retail_sales_week2.csv
-│   ├── week2_report.R
-│   └── Week2_Data_Visualization_Report.pdf
-│
-├── Week3_Statistical_Modeling/
-│   ├── week3_report.R
-│   └── Week3_Statistical_Modeling_Report.pdf
-│
-├── Week4_Final_Report/
-│   └── Week4_Final_Comprehensive_Report.pdf
-│
-└── README.md
+├── README.md
+├── week1_data_cleaning.R
+├── retail_sales_raw.csv
+├── retail_sales_cleaned.csv
+└── Week1_Data_Cleaning_Report.pdf
 ```
 
----
+## Learning Outcomes
 
-## Tools & Libraries
+This project demonstrates practical skills in:
 
-* **Language:** R
-* **Visualization:** ggplot2, corrplot
-* **Data Wrangling:** tidyverse
-* **Feature Engineering:** fastDummies
-* **Statistical Analysis:** car, caret
-
----
-
-## Highlights
-
-* Cleaned and prepared **1,000 retail records** without losing observations.
-* Identified a strong **Sales–Profit correlation (r ≈ 0.75)**.
-* Demonstrated the negative impact of **Discount** on profitability.
-* Built a regression model achieving **R² ≈ 0.70** on unseen test data.
-* Evaluated the model using cross-validation and diagnostic analysis.
-
----
+* Data preprocessing
+* Missing value imputation
+* Outlier treatment using IQR
+* Feature normalization & encoding
+* Exploratory Data Analysis (EDA)
+* Business-oriented data visualization
 
 ## Author
 
 **Pavithra**
 B.Tech Computer Science Engineering
 Keshav Memorial Engineering College (KMEC)
+
 
